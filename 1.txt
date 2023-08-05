@@ -271,22 +271,11 @@ TVB亞洲劇,https://epg.pw/stream/c88adc69fe22cc05c7ff2984ad14db99f461e6dda1268
 TVB亞洲劇,https://epg.pw/stream/a4696392133577ed03dbedefe5c18c3c7a178b0899b2f814fa6c532bc521f8f4.m3u8
 TVB星河,https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.ctv
 香港衛視,https://epg.pw/stream/819fd0a3c22f662eca7cc397a42c80108b0730dd11c9716b7f2d5023d6b89818.ctv
-香港衛視,https://epg.pw/stream/99980f8e82d6d4111c77f2fe961013e7d1ee153a55c7a9be69cfa17143933fd1.m3u8
-香港衛視,https://epg.pw/stream/1cb78de1e131f42fd540ae2d8d60374836662670057c6808869cfc9139427037.m3u8
-TVB千禧经典,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153503
 TVB J2,https://epg.pw/stream/0538ba224aaf885179ea745b10e19769b9c92ee8cf2e27bd12aa101955da0fcb.m3u8
 TVB J2,https://epg.pw/stream/8f0c6739859e86f342aa4bc23a44dc6e1bf9293e7cbe775383ac626224f30df1.m3u8
-明珠台,http://66.181.39.224/ml.php?id=pearl_twn
-明珠台,http://nas.jdshipin.com:8801/gudoumz.php
 明珠台,http://r.jdshipin.com/ZQ4kN
-明珠台,http://60.208.16.27:1505/gudou.php?id=364&id=1351_4500
-翡翠台,http://sc2022.stream-link.org/tv2306.php?id=h01
-翡翠台,http://sc2022.stream-link.org/tv2306.php?id=h02
-翡翠台,http://119.136.122.68:8000/bysid/1
-翡翠台,https://epg.pw/stream/f8abbdf5312cd5274ea4bc7602ae3320fb86083f7a07c8c2f08027421f54ad51.ctv
 翡翠台,https://epg.pw/stream/72d4915ec44c10747097256e886a068d1b80edf5de9c15573fd0d896b8580858.ctv
 翡翠台,https://epg.pw/stream/55148f6bbc04101a5e1f15a10682660e9ecaef5d1d13320d4f652ebb01ccbf80.ctv
-翡翠台,https://epg.pw/stream/90b0d448e52deeb54372ed3d7c0f9afe0617da63fc23f482af47f55710bc7d08.m3u8
 翡翠台,https://epg.pw/stream/531835a4364877a08c4abed27fbc8c692c9383080a2f55838408be805ba91898.ctv
 华丽台,http://66.181.39.224/ml.php?id=Wlt
 TVB無線新聞,https://epg.pw/stream/6406218a6e79d6e22f997bedb74021ca561ff9b2f14033298007565b21c69eaf.ctv
