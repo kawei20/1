@@ -794,3 +794,18 @@ AMC最爱电影,mitv://generationnexxxt.com:19806/45b64b901eaa48c588631df99dc8b5
 EYE TV戏剧台,mitv://generationnexxxt.com:19806/5f7410fd0f99496a8927227aa74d0a46
 爱尔达影剧台,mitv://generationnexxxt.com:19806/c4da0bc3173049abbcea637a9df82e2a
 亚洲剧台,mitv://generationnexxxt.com:19806/59e213eaf3b4421fa9bfa35706311450
+
+
+
+澳視澳門,http://27.109.242.202:49981/stream/channelid/1877717596?ticket=8c28150ff155218ef27c228e13860d95d990e52c&profile=pass
+澳視葡文,http://27.109.242.202:49981/stream/channelid/810506659?ticket=41f94cbc321688337b5a990b86a2072bb997f963&profile=pass
+澳門體育,http://27.109.242.202:49981/stream/channelid/1942157949?ticket=b14da55d3189793c8b26734348c6cee196f66042&profile=pass
+澳門資訊,http://27.109.242.202:49981/stream/channelid/517995382?ticket=761bf8a20397bafe8d7782dcf6a7fe9b03b585a0&profile=pass
+澳門綜藝,http://27.109.242.202:49981/stream/channelid/1476000953?ticket=39fb5513baa8027ebdde27a4e394084a508e66a7&profile=pass
+ViuTVsix,http://27.109.242.202:49981/stream/channelid/54415909?ticket=cc0c315fe6d8f8c66c14e74afc88bf7fa3200e30&profile=pass
+衛星頻道-澳門,http://27.109.242.202:49981/stream/channelid/383612872?ticket=07da56761c55ac4fd7560c74d6afe3ca1bb447b6&profile=pass
+澳門電台,http://27.109.242.202:49981/stream/channelid/2117367243?ticket=b00e7723f1db3c61a6cf135e71fedd6987b5f316&profile=pass
+ViuTV,http://27.109.242.202:49981/stream/channelid/725566841?ticket=1344a579cbdbca8a0cc75829207f1b97f82e6b73&profile=pass
+鳳凰衛視香港台,http://27.109.242.202:49981/stream/channelid/1974075316?ticket=d91c3459c2ab56740d22f9a296a82a5b4ff68cc8&profile=pass
+鳳凰衛視中文台,http://27.109.242.202:49981/stream/channelid/556619599?ticket=8b07df7052258c531cce41c0d36d28eb4edfdffb&profile=pass
+鳳凰衛視資訊台,http://27.109.242.202:49981/stream/channelid/986695840?ticket=de770e0583eaa417becc19e15aff773c1d86fed3&profile=pass
