@@ -1508,3 +1508,13 @@ MTV UHD,p2p://108.181.32.169:14429/6465b595000b11b4e6a53fac6b7c2eaa
 OUTDOOR CHANNEL,p2p://108.181.32.169:14429/6465b5a0000c3aa7e6a56af0523416a8
 Nat Geo Wild USA,p2p://108.181.32.169:14429/645fbc4e000ef087cf4fbd770b2c438b
 Nat Geo USA,p2p://108.181.32.169:14429/645fbc5a000d37fccf4febe77c8856bb
+
+
+测试,#genre#
+港台電視31,mitv://generationnexxxt.com:19806/3525b50af6be404190052cf31e481594
+港台电视32,mitv://generationnexxxt.com:19806/170481363dc94333864eed740c8ea902
+HOY TV,mitv://generationnexxxt.com:19806/87f653c78e7f40cd88499e04ca34b015
+﻿翡翠台(备),mitv://generationnexxxt.com:19806/65d20ed746fd4d98967eb3396be9110b
+J2,mitv://generationnexxxt.com:19806/8d4221170c704be0a4960b5577606323
+无线新闻台(备),mitv://generationnexxxt.com:19806/e9dd1d10d49048519d0a4c0da1510961
+无线新闻台,mitv://generationnexxxt.com:19806/9f6facfbbc4947f58ff1cd98ee7ddb89
