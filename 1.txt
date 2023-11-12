@@ -887,3 +887,8 @@ EYETV戏剧台,mitv://generationnexxxt.com:19806/8a01b92cfba546019469635346591c7
 亚洲剧台,mitv://generationnexxxt.com:19806/59e213eaf3b4421fa9bfa35706311450
 
 测试,#genre#
+凤凰香港,http://ceshi.huanqiuzhibo.cn/xktx.php?id=hkphoenix_twn
+好莱坞电影,http://ceshi.huanqiuzhibo.cn/xktx.php?id=hollywoodmovies_twn
+TVB无线新闻,http://ceshi.huanqiuzhibo.cn/xktx.php?id=inews_twn
+J2,http://ceshi.huanqiuzhibo.cn/xktx.php?id=j2_twn
+TVB翡翠,http://ceshi.huanqiuzhibo.cn/xktx.php?id=jade_twn
