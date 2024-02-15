@@ -271,7 +271,7 @@ HOYTV,P2p://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
 翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h02
 翡翠台,http://113.117.74.45:8081/hls/67/index.m3u8
 J2,P2p://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872#http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
-无线新闻台(备),P2p://147.135.39.171:9906/65a4e8350004c8be46f033cc61584df6
+无线新闻台,P2p://147.135.39.171:9906/65a4e8350004c8be46f033cc61584df6
 无线新闻台,P2p://147.135.39.171:9906/659ad8a20009ddcb1fa351025e007328
 无线新闻台,https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
 无线新闻台,https://i.125011.xyz/tvb.php?id=0&hq
