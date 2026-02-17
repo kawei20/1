@@ -1,1371 +1,1057 @@
-央  视,#genre#
-CCTV-1 综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV-2 财经,http://58.19.38.233:8888/newlive/live/hls/3/live.m3u8
-CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-CCTV-2 财经,http://103.130.141.67:81/live/8/playlist.m3u8
-CCTV-3 娱乐,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
-CCTV-3 娱乐,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
-CCTV-3 娱乐,http://ott.mobaibox.com/PLTV/3/224/3221227424/index.m3u8
-CCTV-3 娱乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV-3 娱乐,https://iptv.luas.edu.cn/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/0df24da9ec-0-0-dca40ddadd2a051ce1a83536d9310820/index.m3u8
-CCTV-4 中文国际,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
-CCTV-4 中文国际,http://210.210.155.37/qwr9ew/s/s19/index.m3u8
-CCTV-4 中文国际,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-4 中文国际,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
-CCTV-5 体育,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3847208563_882248521/ott.mobaibox.com/PLTV/3/224/3221228179/index.m3u8
-CCTV-5 体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001187/index.m3u8?
-CCTV-5 体育,http://222.71.90.218:8888/newlive/live/hls/6/live.m3u8
-CCTV-5 体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV-5 体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV-5 体育,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV-5 体育,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-CCTV-5 体育,http://36.33.240.48:9901/tsfile/live/0005_1.m3u8
-CCTV-5 体育,http://58.19.38.233:8888/newlive/live/hls/6/live.m3u8
-CCTV-5 体育,https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
-CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV-5+ 体育赛事,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
-CCTV-5+ 体育赛事,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
-CCTV-5+ 体育赛事,http://36.33.240.48:9901/tsfile/live/0016_1.m3u8
-CCTV-5+ 体育赛事,https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
-CCTV-6 电影,http://101.23.217.111:8090/hls/14/index.m3u8
-CCTV-6 电影,http://222.71.90.218:8888/newlive/live/hls/7/live.m3u8
-CCTV-7 国防军事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV-8 电视剧,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
-CCTV-9 记录,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-CCTV-10 科教,http://103.130.141.67:81/live/10/playlist.m3u8
-CCTV-10 科教,http://36.33.240.48:9901/tsfile/live/0010_1.m3u8
-CCTV-11 戏曲,http://103.130.141.67:81/live/11/playlist.m3u8
-CCTV-12 社会与法,http://103.130.141.67:81/live/12/playlist.m3u8
-CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-CCTV-13 新闻,http://pi.0472.org/tv/cbn.php?id=xfjcHD
-CCTV-13 新闻,https://pi.0472.org/tv/mzt.php?auth=2309081833
-CCTV-13 新闻,http://103.130.141.67:81/live/15/playlist.m3u8
-CCTV-13 新闻,https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
-CCTV-14 少儿,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
-CCTV-14 少儿,http://103.130.141.67:81/live/14/playlist.m3u8
-CCTV-15 音乐,http://103.130.141.67:81/live/13/playlist.m3u8
-CCTV-16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-CCTV-16 奥林匹克,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001248/index.m3u8?
-CCTV-16 奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV-16 奥林匹克,http://111.20.40.170/PLTV/88888893/224/3221226921/index.m3u8
-CCTV-16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-CCTV-17 农业农村,,http://103.130.141.67:81/live/9/playlist.m3u8
-CCTV 风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
-CCTV 风云足球,http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
-CCTV 风云足球,http://42.176.185.28:9901/tsfile/live/1017_1.m3u8
-CCTV 风云足球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV 风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-CCTV 风云音乐,http://42.176.185.28:9901/tsfile/live/1024_1.m3u8
-CCTV 风云剧场,http://42.176.185.28:9901/tsfile/live/1030_1.m3u8
-CCTV 央视文化精品,http://42.176.185.28:9901/tsfile/live/1028_1.m3u8
-CCTV 央视文化精品,http://113.117.74.99:8081/hls/33/index.m3u8
-CCTV 兵器科技,http://42.176.185.28:9901/tsfile/live/1034_1.m3u8
-CCTV 兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-CCTV 世界地理,http://42.176.185.28:9901/tsfile/live/1037_1.m3u8
-中央新影-老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
-中央新影-老故事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index
-中央新影-发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
-CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
-CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
-CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
-CHC家庭影院,https://iptv.luas.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/07205d7188-0-0-f235a6e0e8dff537848f3fa9cc731bb5/index.m3u8
-CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
-欢笑剧场4K,http://111.20.40.170/PLTV/88888893/224/3221226582/index.m3u8
-熊猫频道 24H直播,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
-中国国际教育1台,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-中国国际教育2台,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-中国国际教育3台,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-CETV1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
-CETV2,http://txycsbl.centv.cn/zb/0822cetv2.m3u8
-CETV3,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
-CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
+港台频道,#genre#
+广东珠江576p,http://27.41.245.32:801/hls/25/index.m3u8
+广东珠江720p,https://t.freetv.fun/live/yan-dong-zhu-jiang-2.m3u8
+广东珠江1080p,http://r.jdshipin.com/sE5vO
+广东珠江1080p,http://rihou.cc:555/tv/[AtI]广东珠江
+广东体育1080p,http://27.41.245.32:801/hls/204/index.m3u8
+广东体育1080p,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4sODPH&tk=inWducl7RAaR
+广东体育1080p,http://119.123.176.238:8086/hls/42/index.m3u8
+广东体育1080p,https://live.catvod.com/iptv.php?id=gdty01
+广东体育1080p,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+广东体育1080p,http://iptv.4666888.xyz/iptv2A.php?id=20
+广东体育1080p,http://rihou.cc:555/tv/[AtI]广东体育
+广东体育720p,http://74.91.26.218:82/live/gdty.m3u8
+广东新闻720p,https://www.wmviv.com/iptv/bc2t.php?id=gdxw
+广东新闻1080p,http://119.123.176.238:8086/hls/45/index.m3u8
+广东新闻1080p,http://14.21.90.68:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻1080p,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=98puXl&tk=inWducl7RAaR
+广东新闻1080p,http://rihou.cc:555/tv/[AtI]广东新闻
+广东影视1080p,http://119.123.176.238:8086/hls/46/index.m3u8
+广东影视1080p,http://14.21.90.68:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视1080p,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Eqe2sj&tk=inWducl7RAaR
+广东影视1080p,http://rihou.cc:555/tv/[AtI]广东影视
+广东民生1080p,http://119.123.176.238:8086/hls/39/index.m3u8
+广东民生1080p,http://14.21.90.68:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+广东民生1080p,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=l6SGeY&tk=inWducl7RAaR
+广东民生1080p,http://rihou.cc:555/tv/[AtI]广东民生
+广东经济科教1080p,http://119.123.176.238:8086/hls/63/index.m3u8
+广东经济科教1080p,http://14.21.90.68:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+广东经济科教1080p,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ezeju6&tk=inWducl7RAaR
+广东经济科教1080p,http://rihou.cc:555/tv/[AtI]广东经济
+广东大湾区卫视1080p,http://119.123.176.238:8086/hls/29/index.m3u8
+广东大湾区卫视1080p,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gXfaFe&tk=inWducl7RAaR
+广东大湾区卫视1080p,http://rihou.cc:555/tv/[AtI]广东湾区
+广州综合720p,http://r.jdshipin.com/iR6Gq
+广州综合720p,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+广州综合720p,http://111.170.156.74:3344/地方/地方/guangdong/guangzhou.php?id=zhonghe
+广州综合720p,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
+广州新闻720p,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d217bd6cf85c93e3b47b96504cd2dc1c&txTime=18e6ff29019
+广州新闻720p,http://111.170.156.74:3344/地方/地方/guangdong/guangzhou.php?id=xinwen
+广州南国都市4K,http://tencentplaygsm.gztv.com/live/nanguodushi.m3u8
+深圳都市1080p,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=IY2Nqo&tk=inWducl7RAaR
+深圳电视剧720p,http://36.36.200.196:44330/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+翡翠台1080p,http://74.91.26.218:82/live/jade.m3u8
+翡翠台1080p,https://o11.163189.xyz/stream/tvb/fct/
+翡翠台1080p,http://bxtv.3a.ink/api.php?id=fct
+翡翠台1080p,http://rihou.cc:555/tv/[Pd]无线翡翠
+翡翠台1080p,http://r.jdshipin.com/62WM7
+翡翠台1080p,http://mytv.cdn.loc.cc/o12.php?id=fct
+翡翠台1080p,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+翡翠台4K,http://rihou.cc:555/tv/[PL]无线翡4k
+翡翠台4K,https://www.wmviv.com/iptv/bc2t.php?id=fct4k
+明珠台1080p,http://iptv.4666888.xyz/iptv2A.php?id=29
+明珠台1080p,http://rihou.cc:555/tv/[Pd]无线明珠
+明珠台1080p,https://o11.163189.xyz/stream/tvb/mzt/
+明珠台1080p,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+明珠台1080p,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+TVB1 1080p,https://6.cdn.loc.cc/163189.php?id=tvb1
+TVBJ1 1080p,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVBJ1 1080p,https://6.cdn.loc.cc/163189.php?id=j1
+TVBJ1 1080p,http://php.jdshipin.com/TVOD/iptv.php?id=j1
+TVBJ1 1080p,https://6.cdn.loc.cc/163189.php?id=j1
+TVB plus 1080p,http://74.91.26.218:82/live/j2.m3u8
+TVB plus 1080p,https://o11.163189.xyz/stream/tvb/tvbp/
+TVB plus 1080p,http://bxtv.3a.ink/api.php?id=tvbp
+TVB plus 1080p,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+TVB plus 1080p,https://cdn6.163189.xyz/163189/tvbp
+TVB星河720p,http://cdn10.163189.xyz/163189/xinghe
+TVB星河720p,https://cdn6.101.qzz.io/163189/tvbxh
+TVB星河720p,http://rihou.cc:555/tv/[Pd]无线星河
+TVB星河720p,http://rihou.cc:555/tv/[PL]无线星河
+TVB星河720p,http://r.jdshipin.com/Voac4
+TVB无线千禧1080p,http://bxtv.3a.ink/api.php?id=qxjd
+TVB无线千禧1080p,http://rihou.cc:555/tv/[Bx]无线千禧
+TVB千禧经典1080p,https://o11.163189.xyz/stream/live/tvbc/
+TVB千禧经典540p,http://74.91.26.218:82/live/tvbjd.m3u8
+TVB功夫720p,http://rihou.cc:555/tv/[Pd]无线功夫
+TVB功夫720p,https://cdn6.101.qzz.io/163189/yzwx
+TVB功夫720p,P2p://starvod.xyz:19806/6043814031384523bc272f4f87aeb298.ts
+TVB娱乐新闻台720p,https://cdn6.101.qzz.io/163189/ylxw
+TVB娱乐新闻台720p,http://rihou.cc:555/tv/[PL]无线娱乐
+ViuTV 1080p,https://stream1.freetv.fun/5fc2ba313b387d2b2538a2e46aee6266cc10890fc8b8ccf478498b82af6f7c3b.m3u8
+ViuTV 1080p,https://stream1.freetv.fun/45181db55db70a3fc349faf2ef2b901599a9cbc7106f2674134cac2db74b2f81.m3u8
+ViuTV 1080p,https://cdn.163189.xyz/163189/viu
+ViuTV6 1080p,https://stream1.freetv.fun/732f193d67c8884d4ea74fab208403ff6495f2298e32f33ffbb019c1171ac507.ctv
+RHK31 1080p,https://live.catvod.com/iptv.php?id=rthk31
+RHK31 1080p,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+RHK31 1080p,http://rihou.cc:555/tv/[PL]RTHK-31
+RHK31 1080p,http://cdn.163189.xyz/163189/rthk31
+RHK32 1080p,https://live.catvod.com/iptv.php?id=rthk32
+RHK32 1080p,http://cdn.163189.xyz/163189/rthk32
+RHK32 1080p,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+RHK32 1080p,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+HOY76 1080p,http://hls.168.us.kg/u/76/master.m3u8
+HOY77 1080p,http://hls.168.us.kg/u/77/master.m3u8
+HOY77 1080p,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+HOY77 1080p,http://iptv.4666888.xyz/iptv2A.php?id=35
+HOY77 1080p,http://cdn.163189.xyz/163189/hoy
+HOY78 1080p,http://hls.168.us.kg/u/78/master.m3u8
+HOY78 1080p,http://iptv.4666888.xyz/iptv2A.php?id=31
+无线新闻台1080p,http://74.91.26.218:82/live/inews.m3u8
+无线新闻台1080p,https://cdn6.101.qzz.io/163189/wxxw
+无线新闻台1080p,http://bxtv.3a.ink/api.php?id=wxxw
+无线新闻台1080p,http://hls.168.us.kg/u/83/master.m3u8
+无线新闻台1080p,http://rihou.cc:555/tv/[Mt]无线新闻
+无线新闻台1080p,https://cdn6.101.qzz.io/163189/wxxw
+凤凰中文HD 1080p,https://cdn6.101.qzz.io/163189/fhzw
+凤凰中文HD 1080p,http://rihou.cc:555/tv/[Bx]凤凰中文
+凤凰中文HD 1080p,http://rihou.cc:555/tv/[PL]凤凰中文
+凤凰中文HD 1080p,http://r.jdshipin.com/cCCzW
+凤凰中文HD 1080p,http://bxtv.3a.ink/api.php?id=fhzw
+凤凰中文HD 1080p,https://cdn6.101.qzz.io/163189/fhzw
+凤凰资讯HD 1080p,https://cdn6.101.qzz.io/163189/fhzx
+凤凰资讯HD 1080p,http://rihou.cc:555/tv/[PL]凤凰资讯
+凤凰资讯HD 1080p,http://r.jdshipin.com/0Rp07
+凤凰香港台1080p,https://cdn6.101.qzz.io/163189/fhhk
+凤凰香港台1080p,http://rihou.cc:555/tv/[Bx]凤凰香港
+凤凰香港台1080p,http://rihou.cc:555/tv/[PL]凤凰香港
+凤凰香港台1080p,http://r.jdshipin.com/yDoTN
+Now新闻台1080p,http://hls.168.us.kg/u/332/master.m3u8
+Now新闻台1080p,http://rihou.cc:555/tv/[Mt]Now新闻
+Now新闻台1080p,https://cdn.163189.xyz/163189/now
+Now新闻台1080p,http://rihou.cc:555/tv/[Cx]Now新闻
+Now新闻台1080p,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+Now财经1080p,http://hls.168.us.kg/u/333/master.m3u8
+Now财经1080p,http://rihou.cc:555/tv/[Mt]Now财经
+Now直播1080p,https://stream1.freetv.fun/2513c26261a06c512471eb0ad14c99576978654e8e494c2a8cd6571c3a3b7c50.ctv
+Now直播1080p,https://stream1.freetv.fun/20a385a5c465c7bbffb60b3309e265829208c3fbf4e3fd0eedbca1776b2c8f23.m3u8
+Now直播1080p,http://rihou.cc:555/tv/[Mt]Now直播
+Now体育1080p,http://rihou.cc:555/tv/[Mt]Now体育
+镜新聞1080p,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
+镜新聞1080p,http://rihou.cc:555/tv/[Hk]闽镜新闻
+中天新聞1080p(梯子),https://stream1.freetv.fun/1b67bc523c86ffa05707cd3f9471cfe1ced1c17d0537471788e00679a1d6cde3.m3u8
+中天新聞720p,http://free.cnlive.club/channel/41d5ac2a.m3u8?q=111.170.171.148
+中天新聞720p,https://stream1.freetv.fun/d0dc419e572496e04901fdd844b4f116a46a43cf2651e93153312310bd703995.m3u8
+中天新聞720p,https://stream1.freetv.fun/966a882718752fcf477567b8ecca5a53feb6bbf6b7e60a8d1030f9be6892c25d.m3u8
+中天新聞720p,http://rihou.cc:555/tv/[Hk]%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E
+CTS華視新聞资讯1080p,http://74.91.26.218:82/live/ctsnews.m3u8
+CTS華視新聞资讯1080p,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
+中視新聞HD 1080p,http://74.91.26.218:82/live/ctvnews.m3u8
+中視新聞HD 1080p,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
+中視新聞HD 720p,http://free.cnlive.club/channel/428f1dfa.m3u8?q=111.170.171.148
+台视新闻HD 1080p,http://74.91.26.218:82/live/ttvnews.m3u8
+台视新闻HD 1080p,https://t.freetv.fun/live/tai-shi-xin-wen-1.m3u8
+台视财经HD 1080P,http://74.91.26.218:82/live/ttvcj.m3u8
+東森新聞台HD 720p,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316
+東森新聞台HD 720p,http://free.cnlive.club/channel/n88aa83.m3u8?q=111.170.171.148
+東森新聞台HD 720p,https://stream1.freetv.fun/7c87d838783dd3b78602e013b57a03b913543fbabc109ee88d85a0b89bd7fff1.m3u8
+民視新聞台1080p,http://74.91.26.218:82/live/ftvnews.m3u8
+民視新聞台1080p,https://t.freetv.fun/live/min-shi-xin-wen-1.m3u8
+民視新聞台720p,http://free.cnlive.club/channel/n4b747ee6.m3u8?q=111.170.171.148
+年代新聞HD 1080p,http://free.cnlive.club/channel/49184630.m3u8?q=111.170.171.148
+非凡新聞HD 1080p,http://iptv.4666888.xyz/iptv2A.php?id=44
+非凡新聞HD 720p,rtmp://f13h.mine.nu/sat/tv581
+寰宇新聞台720p,http://free.cnlive.club/channel/n43c34be8.m3u8?q=111.170.171.148
+寰宇新聞台1080p,https://stream1.freetv.fun/e7076724f6f4ec080e7f1a9c5cac04dd03cdf2a7684892d4415c329245441c95.m3u8
+寰宇新聞台1080p,https://stream1.freetv.fun/05d08ea65b8b2d697984abf19f4545c698308338fdf8aaeac86784ab6e6ef8b0.m3u8
+寰宇新聞台湾台1080p,https://stream1.freetv.fun/6f86b785e4d3724074dfdd10aa123fa6d5e9fcff5baf7c90567bc77446f85c6f.m3u8
+TVBS新聞台HD 1080p,http://iptv.4666888.xyz/iptv2A.php?id=43
+中天娱乐HD 1080p,http://free.cnlive.club/channel/41d6f491.m3u8?q=111.170.171.148
+中天综合HD 1080p,http://free.cnlive.club/channel/41db6ede.m3u8?q=111.170.171.148
+华视HD 1080p,http://74.91.26.218:82/live/cts.m3u8
+华视HD 720p,https://t.freetv.fun/live/hua-shi-2.ts
+华视HD 720p,rtmp://f13h.mine.nu/sat/tv111
+华视教育体育文化1080p,http://74.91.26.218:82/live/ctsjy.m3u8
+中視HD 1080p,http://74.91.26.218:82/live/ctv.m3u8
+中視HD 1080p,http://165.154.226.214:50007/of-4gtv-4gtv040/index.m3u8?proxy=true
+中視HD 1080p,https://stream1.freetv.fun/71452b2d800ddbab4c04d56a1a0fc217af67502c171e2cdf11afeb724ddae007.m3u8
+中視HD 720p,rtmp://f13h.mine.nu:1935/sat/tv091
+中视经典HD 1080p,http://74.91.26.218:82/live/ctvjd.m3u8
+中视菁采HD 1080p,http://74.91.26.218:82/live/ctvjc.m3u8
+公視1080p,http://74.91.26.218:82/live/pts.m3u8
+公视台语台1080p,http://74.91.26.218:82/live/ptsty.m3u8
+公視戲劇1080p,https://stream1.freetv.fun/04b3a7cbbc832bbba2b720c1211a49f8f0663c18021ab85200b1bd0fe0cf713e.m3u8
+台視HD 1080P,http://74.91.26.218:82/live/ttv.m3u8
+台視HD 1080P,http://165.154.226.214:50007/li-4gtv-4gtv066/index.m3u8?proxy=true
+台視HD 720P,rtmp://f13h.mine.nu/sat/tv071
+台视综合HD 1080p,http://74.91.26.218:82/live/ttvzh.m3u8
+台视综合HD 1080p,http://iptv.4666888.xyz/iptv2A.php?id=51
+民视720p,rtmp://f13h.mine.nu/sat/tv051
+民视1080p,http://74.91.26.218:82/live/ftv.m3u8
+民视1080p,http://iptv.4666888.xyz/iptv2A.php?id=55
+民视台湾台1080p,http://74.91.26.218:82/live/ftvtw.m3u8
+民視第一台1080p,http://74.91.26.218:82/live/ftvdy.m3u8
+民視第一台1080p,https://stream1.freetv.fun/19ee45515520ddf60e585588407481e11751df85fcd5cbdb78204803130e7036.m3u8
+民視第一台1080p,http://141.11.87.241:20013/4gtv-4gtv003/index.m3u8?proxy=true
+民視第一台1080p,http://165.154.226.214:50007/li-4gtv-4gtv003/index.m3u8?proxy=true
+民視旅遊1080p,https://stream1.freetv.fun/3439333a186efc0756e2eba2d5dadafc25d63abc56ae450e1d9df49c0180668d.m3u8
+民视综艺1080p,http://iptv.4666888.xyz/iptv2A.php?id=46
+民视综艺1080p,https://stream1.freetv.fun/1b47ca26b5937e3c39bafc6969f66e1ef01d0ea00773163e5b7a9b7fccf082c5.m3u8
+民视影劇1080p,http://iptv.4666888.xyz/iptv2A.php?id=53
+民視影劇1080p,https://stream1.freetv.fun/07a927f5ea19746f63e8e92cd1889151f4edb274910ea867c19eaf31e04a9901.m3u8
+八大綜藝台1080p,http://165.154.226.214:50007/li-4gtv-4gtv039/index.m3u8?proxy=true
+八大精彩台1080p,http://165.154.226.214:50007/li-4gtv-4gtv034/index.m3u8?proxy=true
+三立台湾台1080p,http://23.128.116.71:5589/live.php?id=sanlitaiwan&h=23.128.116.71&p=22364&token=1768656088.86691cca94504da575d8df777cf38454e46d310d063477dfb6dc26c93a6a248f
+三立综合台720p,http://23.128.116.71:5589/live.php?id=sanlizhonghe&h=23.128.116.71&p=22364&token=1768656088.492115de19636f0cd4cf03421832bbed5f62da67f42781bc53be1a0faaf20858
+三立都会台1080p,http://23.128.116.71:5589/live.php?id=sanlidouhui_twn&h=23.128.116.71&p=22364&token=1768656088.71792c6eb5cad5cf0b18fea078d4b239afcebabadce35bd9315d491180a5e404
+三立戏剧台1080p,http://23.128.116.71:5589/live.php?id=sanlixiju_twn&h=23.128.116.71&p=22364&token=1768656088.9fbb23a20a7c3a7360e8bad0e362e55915cf9ff0026941769f8a92f662dfcf70
+TVBS精采台HD 1080p,http://iptv.4666888.xyz/iptv2A.php?id=47
+好消息1080p,http://165.154.226.214:50007/of-litv-ftv16/index.m3u8?proxy=true
+好消息2台1080p,http://165.154.226.214:50007/of-litv-ftv17/index.m3u8?proxy=true
+緯來精彩720p,https://stream1.freetv.fun/409fbf8e0ec33500b4d76956cca00af9fddacac6dd2f8822f464b089fb583a6b.m3u8
+緯來綜合HD 1080p,https://stream1.freetv.fun/541f6094f34e0290077cf0d55df31c49bc148118e6b030fa2165d5c8c35a6d1f.m3u8
+龙华经典1080p,https://cdn8.163189.xyz/163189/lhjd
+龙华经典1080p,http://rihou.cc:555/tv/[Pd]龙华经典
+龙华偶像1080,https://cdn8.163189.xyz/163189/lhox
+龙华偶像1080p,http://rihou.cc:555/tv/[Pd]龙华偶像
+龙华偶像720p,http://23.128.116.71:5589/live.php?id=lunghuaidol_twn&h=23.128.116.71&p=22364&token=1768656088.0a9d5f021d7e75b02ff4fc1935240e3d1b68715c25ab4bae884fd671c63d90ac
+龙华日韩1080p,http://rihou.cc:555/tv/[Pd]龙华日韩
+龙华日韩1080p,https://t.freetv.fun/live/long-hua-ri-han.m3u8
+龙华日韩1080p,https://cdn8.163189.xyz/163189/lhrh
+龙华戏剧,http://156.238.248.80/2099.php?id=122
+龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
+龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
+天映经典,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
+天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
+CHU综合,http://rihou.cc:555/tv/[Pd]CHU综合
+CH5综合,http://rihou.cc:555/tv/[Pd]CH5综合
+CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
+八度空间1080p,http://rihou.cc:555/tv/[Pd]八度空间
+八度空间1080p,http://iptv.4666888.xyz/iptv2A.php?id=52
+八度空间1080p,https://cdn6.101.qzz.io/163189/8tv
+亚洲卫视1080p,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+环球电视台720p,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+澳视澳门1080p,https://cdn6.101.qzz.io/163189/asam
+澳视澳门1080p,http://iptv.4666888.xyz/iptv2A.php?id=41
+澳视澳门1080p,http://r.jdshipin.com/n2YZI
+澳视Macau 1080p,http://php.jdshipin.com/TVOD/iptv.php?id=as
+澳视Macau 1080p,https://cdn6.101.qzz.io/163189/as
+澳视Macau 1080p,http://r.jdshipin.com/QFhCq
+澳门综艺1080p,https://cdn6.101.qzz.io/163189/amzy
+澳门体育1080p,http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
+澳门体育1080p,https://cdn6.101.qzz.io/163189/amty
+星空卫视576P,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 
-卫  视,#genre#
-东方卫视,http://39.134.61.218/PLTV/88888888/224/3221227088/index.m3u8
-东方卫视,http://103.130.141.67:81/live/6/playlist.m3u8
-东方卫视,http://media.hndyjyfw.gov.cn/live/jz-shanghaiweishi-gq/live.m3u8
-东方卫视,http://58.19.38.233:8888/newlive/live/hls/20/live.m3u8
-北京卫视,http://222.71.90.218:8888/newlive/live/hls/18/live.m3u8
-天津卫视,http://222.71.90.218:8888/newlive/live/hls/32/live.m3u8
-吉林卫视,http://222.71.90.218:8888/newlive/live/hls/41/live.m3u8
-吉林卫视,http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8
-吉林卫视,http://stream1.jlntv.cn/jlws/sd/live.m3u8
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/720p.m3u8
-浙江卫视,http://221.2.36.34:8888/newlive/live/hls/24/live.m3u8
-浙江卫视,http://222.71.90.218:8888/newlive/live/hls/20/live.m3u8
-湖南卫视,http://221.2.36.34:8888/newlive/live/hls/23/live.m3u8
-湖南卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001026/index.m3u8?
-湖南卫视,http://222.71.90.218:8888/newlive/live/hls/22/live.m3u8
-湖南卫视,http://39.134.61.218/PLTV/88888888/224/3221227074/index.m3u8
-湖南卫视,http://123.51.230.108:18536/.m3u8
-湖北卫视,http://222.71.90.218:8888/newlive/live/hls/27/live.m3u8
-江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
-江苏卫视,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2983110475_-1591539074/ott.mobaibox.com/PLTV/3/224/3221228097/index.m3u8
-江苏卫视,http://222.71.90.218:8888/newlive/live/hls/21/live.m3u8
-山东卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226693/1.m3u8
-山东卫视,http://l1.weihai.tv:8081/hls/oK0gP1n8et.m3u8
-山东卫视,http://222.71.90.218:8888/newlive/live/hls/26/live.m3u8
-安徽卫视,http://222.71.90.218:8888/newlive/live/hls/28/live.m3u8
-广东卫视,http://222.71.90.218:8888/newlive/live/hls/23/live.m3u8
-大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
-大湾区卫视,http://gxdl-lhs.8866.org:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://222.71.90.218:8888/newlive/live/hls/24/live.m3u8
-深圳卫视,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/mnf.m3u8
-广西卫视,http://222.71.90.218:8888/newlive/live/hls/40/live.m3u8
-贵州卫视,http://103.130.141.67:81/live/5/playlist.m3u8
-江西卫视,http://222.71.90.218:8888/newlive/live/hls/30/live.m3u8
-江西卫视,http://jsp-tv-live.jxtvcn.com.cn/live-showto/tv_jxtv1.m3u8
-山西卫视,http://live.cooltv.top/tv/tide.php?id=sxiws2
-河南卫视,http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
-东南卫视,http://42.176.185.28:9901/tsfile/live/1014_1.m3u8
-东南卫视,http://222.71.90.218:8888/newlive/live/hls/29/live.m3u8
-河北卫视,http://event.pull.hebtv.com/jishi/weishipindao.m3u8
-河北卫视,http://101.23.217.111:8090/hls/25/index.m3u8
-陕西卫视,http://222.71.90.218:8888/newlive/live/hls/45/live.m3u8
-海南卫视,http://livelyws.chinamcache.com/lyws/zb01.m3u8
-辽宁卫视,http://cfss.cc/api/ysp/lnws.m3u8
-辽宁卫视,http://222.71.90.218:8888/newlive/live/hls/31/live.m3u8
-黑龙江卫,：http://222.71.90.218:8888/newlive/live/hls/25/live.m3u8
-青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8
-青海卫视,http://222.71.90.218:8888/newlive/live/hls/43/live.m3u8
-青海卫视,http://120.204.20.48/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225528/index.m3u8
-康巴卫视,http://111.202.12.159:8080/kYGHWzA/1000/live.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
-云南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226709/1.m3u8
-云南卫视,http://222.71.90.218:8888/newlive/live/hls/39/live.m3u8
-宁夏卫视,http://222.71.90.218:8888/newlive/live/hls/42/live.m3u8
-内蒙古卫,：http://222.71.90.218:8888/newlive/live/hls/46/live.m3u8
-新疆卫视,http://222.71.90.218:8888/newlive/live/hls/47/live.m3u8
-西藏卫视,http://222.71.90.218:8888/newlive/live/hls/44/live.m3u8
+电影频道,#genre#
+澳门莲花1080p,https://cdn6.101.qzz.io/163189/amlh
+Now星影台(粤)576p,https://t.freetv.fun/live/nowxing-ying.m3u8
+Now星影台(粤)576p,https://stream1.freetv.fun/b56bee75906bfad78f50f3eccffccdc4ed2dfe763f4fd01135948baae9af8e35.m3u8
+Now星影台(粤)576p,http://74.91.26.218:82/live/nowxy.m3u8
+Now爆谷台576p,http://74.91.26.218:82/live/nowbg.m3u8
+1905电影网1080p,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
+1905电影网1080p,http://php.jdshipin.com:8880/1905.php?id=1905dy
+1905电影网1080p,http://php.jdshipin.com/1905.php
+1905电影网1080p,,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JKPWmH&tk=inWducl7RAaR
+1905电影网怀旧360p,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905b
+1905电影网怀旧360p,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8ofuVF&tk=inWducl7RAaR
+CCTV6电影1080p,http://tvlist.top/jd/index.php?id=cctv6&qt=118.212.78.251:8014
+CCTV6电影1080p,http://kouki.pro:8888/udp/239.49.8.76:8000
+CCTV6电影1080p,http://27.41.245.32:801/hls/6/index.m3u8
+CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+CHC家庭电影,http://27.41.245.32:801/hls/905/index.m3u8
+CHC家庭电影,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+PopC电影,http://bxtv.3a.ink/api.php?id=popc
+PopC电影,http://rihou.cc:555/tv/[Bx]pₒₚc电影
+PopC电影,P2p://starvod.xyz:19806/688bba7c000da6943214e2280ad91465.ts
+CATCHPLAY电影,https://live.catvod.com/live.php?id=catchplay_twn
+AMC电影台,https://live.catvod.com/live.php?id=starmoviesgold_twn
+淘电影1080p,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001
+好莱坞电影1080p,http://free.cnlive.club/channel/n2db95de5.m3u8?q=111.170.171.148
+凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
+凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1
+凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+美亚电影台HD,http://iptv.4666888.xyz/iptv2A.php?id=30
+美亚电影台HD,P2p://starvod.xyz:19806/f9cdad09f3cc47bc83ba1d94167ebe64.ts
+美亚电影台(粤)576p,http://74.91.26.218:82/live/mydy.m3u8
+美亚电影台(国),http://74.91.26.218:82/live/mydy.m3u8
+美亚电影台(国),http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+美亚电影台(国),https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
+美亚电影台(国),http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+美亚电影台(国),http://php.jdshipin.com/PLTV/iptv.php?id=meiya
+东森电影HD,http://iptv.4666888.xyz/iptv2A.php?id=48
+东森电影HD,https://live.saileitv.com/channel/n5502f4/index.m3u8?q=1768660386565&sign=097c2fa48ab623ba6c6327404a1375c9&ts=1768660887
+东森电影HD,http://23.128.116.71:5589/live.php?id=ettvmovie&h=23.128.116.71&p=22364&token=1768656088.a085acf2e7d7a672b2c2523583227ea4b3c1f3c158a64d90de3020fc0ef508b7
+华数电影,http://hmfs.f3322.net:3388/hls/40/index.m3u8
+靖天電影台,http://iptv.4666888.xyz/iptv2A.php?id=56
+靖天電影台,P2p://starvod.xyz:19806/7a72ea8d27d64fb9aae835c30af3b1cc.ts
+天映频道540p,http://php.jdshipin.com/smt.php?id=Celestial
+天映频道540p,http://php.jdshipin.com:8880/smt.php?id=Celestial
+天映频道540p,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
+天映频道540p,https://cdn9.163189.xyz/smt1.1.php?id=Celestial
+天映频道1080p,http://74.91.26.218:82/live/typd.m3u8
+天映经典576p,http://74.91.26.218:82/live/tyjd.m3u8
+龙华电影1080p,http://iptv.4666888.xyz/iptv2A.php?id=45
+龙华电影1080p,https://t.freetv.fun/live/long-hua-dian-ying.m3u8
+龙华电影1080p,https://cdn8.163189.xyz/163189/lhdy
+龙华电影1080p,https://live.catvod.com/iptv.php?id=lhdy01
+龙华电影1080p(梯子),http://cdn8.veryfast.filegear-sg.me/163189/lhdy
+龙华洋片,https://live.catvod.com/iptv.php?id=lhyp01
+龙华洋片,http://156.238.248.80/2099.php?id=117
+龙祥时代1080p,http://23.128.116.71:5589/live.php?id=lungxiangtime_twn&h=23.128.116.71&p=22364&token=1768656088.9568be950d58b8a02f43f238bdd447f3d6d89ae9a3538b950d0a6322a0ec4230
+緯來電影HD 1080p,http://23.128.116.71:5589/live.php?id=videolandmovie&h=23.128.116.71&p=22364&token=1768656088.7cfab29e31a4d92960308bc41781955067656d64c99658a37feeaa185443399a
 
-广  东,#genre#
-广东卫视,https://php.17186.eu.org/gdtv/web/gdws.m3u8 
-广东新闻,https://php.17186.eu.org/gdtv/web/gdxw.m3u8 
-广东新闻,https://php.17186.eu.org/gdtv/web/xwpd.m3u8 
-广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8 
-广东体育,https://php.17186.eu.org/gdtv/web/gdty.m3u8 
-广东民生,https://php.17186.eu.org/gdtv/web/gdgg.m3u8 
-广东国际,https://php.17186.eu.org/gdtv/web/gdgj.m3u8 
-广东经济科教,https://php.17186.eu.org/gdtv/web/jjkj.m3u8 
-广东4K超高清,https://php.17186.eu.org/gdtv/web/gdzy.m3u8 
-广东影视,https://php.17186.eu.org/gdtv/web/gdys.m3u8 
-广东少儿,https://php.17186.eu.org/gdtv/web/gdse.m3u8 
-嘉佳卡通,https://php.17186.eu.org/gdtv/web/jjkt.m3u8 
-东莞新闻综合,http://live.qiyuevod.com/usptv/gwtv.php?id=xwzh 
-东莞生活资讯,http://live.qiyuevod.com/usptv/gwtv.php?id=shzx 
-广州综合,https://justsometime.gztv.com/sec/zhonghe.m3u8 
-广州法治,https://justsometime.gztv.com/sec/fazhi.m3u8 
-广州新闻,https://justsometime.gztv.com/sec/xinwen.m3u8 
-广州竞赛,https://justsometime.gztv.com/sec/jingsai.m3u8 
-广州影视,https://justsometime.gztv.com/sec/yingshi.m3u8 
-南国都市,https://justsometime.gztv.com/sec/shenghuos.m3u8 
-大湾区卫视,http://cloud.bytelife.top:4022/udp/239.77.0.215:5146 
-广东卫视,http://cloud.bytelife.top:4022/udp/239.77.1.19:5146 
-广东卫视,http://cloud.bytelife.top:4022/udp/239.77.1.152:5146 
-广东卫视,http://cloud.bytelife.top:4022/udp/239.77.0.84:5146 
-广东卫视,http://cloud.bytelife.top:4022/udp/239.77.0.166:5146 
-广东珠江,http://cloud.bytelife.top:4022/udp/239.77.0.1:5146 
-广东珠江,http://cloud.bytelife.top:4022/udp/239.77.0.114:5146 
-广东新闻,http://cloud.bytelife.top:4022/udp/239.77.0.173:5146 
-广东民生,http://cloud.bytelife.top:4022/udp/239.77.0.225:5146 
-广东体育,http://cloud.bytelife.top:4022/udp/239.77.0.112:5146 
-广东体育,http://cloud.bytelife.top:4022/udp/239.77.0.168:5146 
-广东移动,http://cloud.bytelife.top:4022/udp/239.77.0.20:5146 
-广东综艺 4K,http://cloud.bytelife.top:4022/udp/239.77.1.236:5146 
-广东综艺 4K,http://cloud.bytelife.top:4022/udp/239.77.1.237:5146 
-广东综艺 4K,http://cloud.bytelife.top:4022/udp/239.77.0.244:5146 
-广东综艺 4K,http://cloud.bytelife.top:4022/udp/239.77.0.245:5146 
-广东房产,http://cloud.bytelife.top:4022/udp/239.77.0.14:5146 
-广东经济科教,http://cloud.bytelife.top:4022/udp/239.77.0.85:5146 
-广东经济科教,http://cloud.bytelife.top:4022/udp/239.77.0.167:5146
-广东影视,http://cloud.bytelife.top:4022/udp/239.77.0.217:5146 
-广东少儿,http://cloud.bytelife.top:4022/udp/239.77.0.250:5146 
-嘉佳卡通,http://cloud.bytelife.top:4022/udp/239.77.0.179:5146 
-岭南戏曲,http://cloud.bytelife.top:4022/udp/239.77.0.16:5146 
-现代教育,http://cloud.bytelife.top:4022/udp/239.77.0.18:5146 
-广州综合,http://cloud.bytelife.top:4022/udp/239.253.43.71:5146 
-广州新闻,http://cloud.bytelife.top:4022/udp/239.253.43.72:5146 
-广州影视,http://cloud.bytelife.top:4022/udp/239.253.43.73:5146 
-广州法治,http://cloud.bytelife.top:4022/udp/239.253.43.74:5146 
-广州竞赛,http://cloud.bytelife.top:4022/udp/239.253.43.75:5146 
-南国都市4K,http://cloud.bytelife.top:4022/udp/239.253.43.99:5146 
-深圳卫视,http://cloud.bytelife.top:4022/udp/239.77.1.3:5146 
-深圳卫视,http://cloud.bytelife.top:4022/udp/239.77.1.148:5146 
-深圳卫视,http://cloud.bytelife.top:4022/udp/239.77.0.92:5146 
-深圳卫视,http://cloud.bytelife.top:4022/udp/239.77.0.130:5146 
-深圳都市,http://cloud.bytelife.top:4022/udp/239.77.1.176:5146 
-深圳都市,http://cloud.bytelife.top:4022/udp/239.77.1.124:5146 
-深圳电视剧,http://cloud.bytelife.top:4022/udp/239.77.1.177:5146 
-深圳电视剧,http://cloud.bytelife.top:4022/udp/239.77.1.125:5146 
-深圳财经生活,http://cloud.bytelife.top:4022/udp/239.77.1.242:5146 
-深圳娱乐,http://cloud.bytelife.top:4022/udp/239.77.1.243:5146 
-深圳体育健康,http://cloud.bytelife.top:4022/udp/239.77.1.128:5146 
-深圳体育健康,http://cloud.bytelife.top:4022/udp/239.77.1.140:5146 
-深圳少儿,http://cloud.bytelife.top:4022/udp/239.77.1.244:5146 
-深圳公共,http://cloud.bytelife.top:4022/udp/239.77.1.178:5146 
-深圳公共,http://cloud.bytelife.top:4022/udp/239.77.1.126:5146 
-深圳宝安,http://cloud.bytelife.top:4022/udp/239.77.1.67:5146 
-深圳龙岗,http://cloud.bytelife.top:4022/udp/239.77.1.223:5146 
-深圳东部,http://cloud.bytelife.top:4022/udp/239.77.1.224:5146 
-深圳众创TV,http://cloud.bytelife.top:4022/udp/239.77.1.247:5146 
-佛山公共,http://cloud.bytelife.top:4022/udp/239.253.43.53:5146 
-佛山南海,http://cloud.bytelife.top:4022/udp/239.253.43.54:5146 
-佛山顺德,http://cloud.bytelife.top:4022/udp/239.253.43.55:5146 
-佛山影视,http://cloud.bytelife.top:4022/udp/239.253.43.56:5146 
-佛山综合,http://cloud.bytelife.top:4022/udp/239.253.43.57:5146 
-东莞新闻综合,http://cloud.bytelife.top:4022/udp/239.253.43.104:5146 
-东莞生活资讯,http://cloud.bytelife.top:4022/udp/239.253.43.105:5146 
-中山综合,http://cloud.bytelife.top:4022/udp/239.253.43.62:5146 
-中山公共,http://cloud.bytelife.top:4022/udp/239.253.43.63:5146 
-中山教育,http://cloud.bytelife.top:4022/udp/239.253.43.64:5146 
-韶关新闻综合,http://cloud.bytelife.top:4022/udp/239.77.0.117:5146 
-韶关绿色生活,http://cloud.bytelife.top:4022/udp/239.77.0.119:5146 
-湛江新闻综合,http://cloud.bytelife.top:4022/udp/239.77.0.141:5146 
-湛江公共,http://cloud.bytelife.top:4022/udp/239.77.0.140:5146 
-揭阳综合,http://cloud.bytelife.top:4022/udp/239.77.0.229:5146 
-揭阳生活,http://cloud.bytelife.top:4022/udp/239.77.0.251:5146 
-潮州综合,http://cloud.bytelife.top:4022/udp/239.253.43.70:5146 
-潮州民生,http://cloud.bytelife.top:4022/udp/239.253.43.75:5146  
-江门综合,http://cloud.bytelife.top:4022/udp/239.77.0.201:5146 
-江门侨乡生活,http://cloud.bytelife.top:4022/udp/239.77.0.202:5146 
-江门教育,http://cloud.bytelife.top:4022/udp/239.77.0.203:5146 
-惠州-1,http://cloud.bytelife.top:4022/udp/239.77.1.232:5146 
-惠州-2,http://cloud.bytelife.top:4022/udp/239.77.1.233:5146 
-珠海-1,http://cloud.bytelife.top:4022/udp/239.77.0.155:5146 
-珠海-2,http://cloud.bytelife.top:4022/udp/239.77.0.154:5146 
-肇庆综合,http://cloud.bytelife.top:4022/udp/239.253.43.1:5146 
-肇庆生活服务,http://cloud.bytelife.top:4022/udp/239.253.43.2:5146 
-河源综合,http://cloud.bytelife.top:4022/udp/239.253.43.213:5146 
-河源公共,http://cloud.bytelife.top:4022/udp/239.253.43.214:5146 
-清远新闻综合,http://cloud.bytelife.top:4022/udp/239.253.43.33:5146 
-清远公共,http://cloud.bytelife.top:4022/udp/239.253.43.34:5146 
-云浮综合,http://cloud.bytelife.top:4022/udp/239.77.0.253:5146 
-云浮文旅,http://cloud.bytelife.top:4022/udp/239.77.0.254:5146 
-茂名综合,http://cloud.bytelife.top:4022/udp/239.77.0.206:5146 
-茂名公共,http://cloud.bytelife.top:4022/udp/239.77.0.207:5146 
-汕头综合,http://cloud.bytelife.top:4022/udp/239.77.1.130:5146 
-汕头综合,http://cloud.bytelife.top:4022/udp/239.253.43.45:5146 
-汕头经济生活,http://cloud.bytelife.top:4022/udp/239.77.1.131:5146 
-汕头经济生活,http://cloud.bytelife.top:4022/udp/239.253.43.46:5146 
-汕头文旅体育,http://cloud.bytelife.top:4022/udp/239.77.1.132:5146 
-汕头文旅体育,http://cloud.bytelife.top:4022/udp/239.253.43.47:5146 
-汕尾新闻综合,http://cloud.bytelife.top:4022/udp/239.77.0.25:5146 
-汕尾文化生活,http://cloud.bytelife.top:4022/udp/239.77.0.187:5146  
+大陆频道,#genre#
+CCTV1综合,http://iptv.4666888.xyz/iptv2A.php?id=7
+CCTV1综合,http://kouki.pro:8888/udp/239.49.8.129:6000
+CCTV1综合,http://5636tv.jiaheysyy.top/dl.php?id=3d8e093d
+CCTV1综合,http://39.152.103.17:8089/tsfile/live/1000_1.m3u8
+CCTV2财经,http://tvlist.top/jd/index.php?id=cctv2&qt=183.224.122.114:8014
+CCTV2财经,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV2财经,http://27.41.245.32:801/hls/2/index.m3u8
+CCTV2财经,http://kouki.pro:8888/udp/239.49.8.50:9802http://27.41.245.32:801/hls/8/index.m3u8
+CCTV2财经,http://59.173.123.31:8989/rtp/239.69.1.102:10250
+CCTV3综艺,http://tvlist.top/jd/index.php?id=cctv3&qt=183.224.122.114:8014
+CCTV3综艺,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV3综艺,http://kouki.pro:8888/udp/239.49.8.74:8000
+CCTV3综艺,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
+CCTV3综艺,https://iptv.catvod.com/live.php?id=CCTV-3
+CCTV4中文国际,http://tvlist.top/jd/index.php?id=cctv4&qt=183.224.122.114:8014
+CCTV4中文国际,http://iptv.4666888.xyz/iptv2A.php?id=10
+CCTV4中文国际,http://yp.qqqtv.top/1/api.php?id=CCTV-4HD&auth=666858
+CCTV4中文国际,http://kouki.pro:8888/udp/239.49.8.51:9806
+CCTV4中文国际,http://39.152.103.17:8089/tsfile/live/1003_1.m3u8
+CCTV4中文国际美洲,http://dsl1.oni2023.uk:8888/udp/239.253.43.121:5146
+CCTV4中文国际美洲,http://baota.guangyuan.site:8188/udp/239.253.43.121:5146
+CCTV4中文国际欧洲,http://dsl1.oni2023.uk:8888/udp/239.253.43.120:5146
+CCTV5体育,http://tvlist.top/jd/index.php?id=cctv5&qt=183.224.122.114:8014
+CCTV5体育,http://kouki.pro:8888/udp/239.49.8.75:8000
+CCTV5体育,http://27.41.245.32:801/hls/5/index.m3u8
+CCTV5体育,http://nxb.yxhxy.top:7088/udp/239.49.8.75:8000
+CCTV5体育,http://156.238.248.80/2099.php?id=941
+CCTV5体育,https://iptv.catvod.com/live.php?id=CCTV-5
+CCTV5+体育赛事,http://tvlist.top/jd/index.php?id=cctv5p&qt=183.224.122.114:8014
+CCTV5+体育赛事,http://74.91.26.218:82/live/cctv5p.m3u8
+CCTV5+体育赛事,http://yp.qqqtv.top/1/api.php?id=CCTV-5%2BHD&auth=666858
+CCTV5+体育赛事,http://5636tv.jiaheysyy.top/dl.php?id=52f0fc31
+CCTV5+体育赛事,http://156.238.248.80/2099.php?id=942
+CCTV5+体育赛事,https://iptv.catvod.com/live.php?id=CCTV-5plus
+CCTV5+体育赛事,http://119.123.176.238:8086/hls/252/index.m3u8
+CCTV5+体育赛事,http://btjg.net:809/hls/17/index.m3u8
+CCTV6电影1080p,http://tvlist.top/jd/index.php?id=cctv6&qt=118.212.78.251:8014
+CCTV6电影1080p,http://kouki.pro:8888/udp/239.49.8.76:8000
+CCTV6电影1080p,http://27.41.245.32:801/hls/6/index.m3u8
+CCTV7国防军事,http://tvlist.top/jd/index.php?id=cctv7&qt=183.224.122.114:8014
+CCTV7国防军事,http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858
+CCTV7国防军事,http://27.41.245.32:801/hls/7/index.m3u8
+CCTV7国防军事,https://iptv.catvod.com/live.php?id=CCTV-7
+CCTV7国防军事,http://222.214.208.34:59901/tsfile/live/0007_1.m3u8
+CCTV7国防军事,http://119.123.176.238:8086/hls/8/index.m3u8
+CCTV8电视剧,http://tvlist.top/jd/index.php?id=cctv8&qt=118.212.78.251:8014
+CCTV8电视剧,http://27.41.245.32:801/hls/8/index.m3u8
+CCTV8电视剧,https://iptv.catvod.com/live.php?id=CCTV-8
+CCTV8电视剧,http://222.214.208.34:59901/tsfile/live/0008_1.m3u8
+CCTV9纪录,http://tvlist.top/jd/index.php?id=cctv9&qt=183.224.122.114:8014
+CCTV9纪录,http://27.41.245.32:801/hls/9/index.m3u8
+CCTV9纪录,http://yp.qqqtv.top/1/api.php?id=CCTV-9HD&auth=666858
+CCTV9纪录,http://kouki.pro:8888/udp/239.49.8.53:9814
+CCTV9纪录,https://iptv.catvod.com/live.php?id=CCTV-9
+CCTV9纪录,http://222.214.208.34:59901/tsfile/live/0009_1.m3u8
+CCTV10科教,http://tvlist.top/jd/index.php?id=cctv10&qt=183.224.122.114:8014
+CCTV10科教,http://yp.qqqtv.top/1/api.php?id=CCTV-10HD&auth=666858
+CCTV10科教,http://27.41.245.32:801/hls/10/index.m3u8
+CCTV10科教,http://kouki.pro:8888/udp/239.49.8.54:9818
+CCTV10科教,https://iptv.catvod.com/live.php?id=CCTV-10
+CCTV10科教,http://5636tv.jiaheysyy.top/dl.php?id=2538c1b4
+CCTV11科戏曲,http://tvlist.top/jd/index.php?id=cctv11&qt=183.224.122.114:8014
+CCTV11科戏曲,https://iptv.catvod.com/live.php?id=CCTV-11
+CCTV11科戏曲,http://222.214.208.34:59901/tsfile/live/0011_1.m3u8
+CCTV11科戏曲,http://111.23.208.105:9908/tsfile/live/0011_2.m3u8
+CCTV11科戏曲,http://183.7.172.159:8888/hls/27/index.m3u8
+CCTV12社会与法,http://tvlist.top/jd/index.php?id=cctv12&qt=183.224.122.114:8014
+CCTV12社会与法,https://iptv.catvod.com/live.php?id=CCTV-12
+CCTV12社会与法,http://112.123.243.37:50085/tsfile/live/0013_1.m3u8
+CCTV12社会与法,http://222.214.208.34:59901/tsfile/live/0012_1.m3u8
+CCTV12社会与法,http://119.123.176.238:8086/hls/13/index.m3u8
+CCTV13新闻,http://tvlist.top/jd/index.php?id=cctv13&qt=183.224.122.114:8014
+CCTV13新闻,http://23.237.228.134/live3/CCTV13.m3u8
+CCTV13新闻,https://iptv.catvod.com/live.php?id=CCTV-13
+CCTV13新闻,http://39.152.103.17:8089/tsfile/live/1012_1.m3u8
+CCTV13新闻,http://59.173.123.31:8989/rtp/239.254.96.161:9040
+CCTV13新闻,http://39.165.39.49:19901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV14少儿,http://tvlist.top/jd/index.php?id=cctv14&qt=183.224.122.114:8014
+CCTV14少儿,https://iptv.catvod.com/live.php?id=CCTV-14
+CCTV14少儿,http://27.41.245.32:801/hls/14/index.m3u8
+CCTV15音乐,http://tvlist.top/jd/index.php?id=cctv15&qt=183.224.122.114:8014
+CCTV15音乐,http://119.123.176.238:8086/hls/16/index.m3u8
+CCTV15音乐,http://yp.qqqtv.top/1/api.php?id=CCTV-15HD&auth=666858
+CCTV15音乐,http://222.214.208.34:59901/tsfile/live/0015_1.m3u8
+CCTV15音乐,http://111.23.208.105:9908/tsfile/live/0015_2.m3u8
+CCTV15音乐,http://btjg.net:809/hls/15/index.m3u8
+CCTV16奥林匹克,http://tvlist.top/jd/index.php?id=cctv16&qt=183.224.122.114:8014
+CCTV16奥林匹克,http://119.123.176.238:8086/hls/17/index.m3u8
+CCTV16奥林匹克,https://iptv.catvod.com/live.php?id=CCTV-16
+CCTV16奥林匹克4K,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VmBEMy&tk=inWducl7RAaR
+CCTV17农业农村,http://yp.qqqtv.top/1/api.php?id=CCTV-17HD&auth=666858
+CCTV17农业农村,https://iptv.catvod.com/live.php?id=CCTV-17
+CCTV17农业农村,http://111.23.208.105:9908/tsfile/live/0019_1.m3u8
+CCTV怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+CCTV怀旧剧场,http://yp.qqqtv.top/1/api.php?id=CCTV-%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA&auth=666858
+CCTV第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+CCTV第一剧场,http://w.yao87.com:4022/rtp/239.76.254.49:9000
+CCTV世界地理,http://hmfs.f3322.net:3388/hls/28/index.m3u8
+CCTV世界地理,http://www.qfly9236.cn:8888/rtp/239.253.92.113:8066
+CCTV世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+CCTV风云剧场,http://hmfs.f3322.net:3388/hls/20/index.m3u8
+CCTV风云足球,http://hmfs.f3322.net:3388/hls/9/index.m3u8
+CCTV风云足球,http://27.41.245.32:801/hls/906/index.m3u8
+CCTV风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+CCTV风云音乐,http://hmfs.f3322.net:3388/hls/29/index.m3u8
+CCTV4K超高清,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZR2I09&tk=inWducl7RAaR
+CGTN俄语,https://russian-livews.CGTN.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+CGTN法语,https://francais-livews.CGTN.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+CGTN西语,https://espanol-liveali.CGTN.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+CGTN阿语,https://arabic-liveali.CGTN.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+广东卫视,http://tvlist.top/jd/index.php?id=gdws&qt=118.212.78.251:8014
+广东卫视,http://119.123.176.238:8086/hls/44/index.m3u8
+广东卫视,http://183.7.172.159:8888/hls/1/index.m3u8
+广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86%E5%8F%B0
+广东卫视,http://222.214.208.34:59901/tsfile/live/0125_1.m3u8
+广东卫视,http://111.23.208.105:9908/tsfile/live/1031_1.m3u8
+广东卫视,http://rihou.cc:555/tv/[AtI]广东卫视
+广西卫视,http://tvlist.top/jd/index.php?id=gxws&qt=183.224.122.114:8014
+广西卫视,http://111.23.208.105:9908/tsfile/live/0113_1.m3u8
+广西卫视,http://119.123.176.238:8086/hls/48/index.m3u8
+广西卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
+广西卫视,http://27.41.245.32:801/hls/34/index.m3u8
+广西卫视,rtmp://live.gxrb.com.cn/hls/a23
+深圳卫视,http://tvlist.top/jd/index.php?id=szws&qt=183.224.122.114:8014
+深圳卫视,http://tvlist.top/jd/index.php?id=szws&qt=118.212.78.251:8014
+深圳卫视,https://py.doube.eu.org/ysp/2024061303/600002481
+深圳卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.1.14:5146
+湖南卫视,http://tvlist.top/jd/index.php?id=hunanws&qt=183.224.122.114:8014
+湖南卫视,http://tvlist.top/jd/index.php?id=hunanws&qt=118.212.78.251:8014
+湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
+湖南卫视,http://119.123.176.238:8086/hls/55/index.m3u8
+湖南卫视,http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://222.214.208.34:59901/tsfile/live/0128_1.m3u8
+湖南卫视,http://dodge.lwfz.fun:8800/rtp/239.16.20.72:10720
+湖南卫视,http://113.90.245.216:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://27.41.245.32:801/hls/27/index.m3u8
+湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖北卫视,http://tvlist.top/jd/index.php?id=hbws&qt=183.224.122.114:8014
+湖北卫视,http://tvlist.top/jd/index.php?id=hbws&qt=118.212.78.251:8014
+湖北卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86%E5%8F%B0
+湖北卫视,http://119.123.176.238:8086/hls/54/index.m3u8
+湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+湖北卫视,http://183.7.172.159:8888/hls/36/index.m3u8
+海南卫视,http://vapi.91kds.cc/live1/hitv.m3u8?id=lyws&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
+海南卫视,http://btjg.net:809/hls/61/index.m3u8
+海南卫视,http://27.41.245.32:801/hls/36/index.m3u8
+海南卫视,https://py.doube.eu.org/ysp/2024055603/600002506
+浙江卫视,http://tvlist.top/jd/index.php?id=zjws&qt=183.224.122.114:8014
+浙江卫视,http://tvlist.top/jd/index.php?id=zjws&qt=118.212.78.251:8014
+浙江卫视,http://119.123.176.238:8086/hls/101/index.m3u8
+浙江卫视,http://119.123.176.238:8086/hls/128/index.m3u8
+浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
+浙江卫视,http://113.101.244.229:10000/udp/239.77.1.33:5146
+浙江卫视,http://59.173.123.31:8989/rtp/239.254.96.143:8932
+浙江卫视,http://27.41.245.32:801/hls/58/index.m3u8
+浙江卫视频4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+江苏卫视,http://tvlist.top/jd/index.php?id=jsws&qt=118.212.78.251:8014
+江苏卫视,http://119.123.176.238:8086/hls/59/index.m3u8
+江苏卫视,http://59.173.123.31:8989/rtp/239.254.96.144:8938
+江苏卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E5%8F%B0
+江苏卫视,http://27.41.245.32:801/hls/42/index.m3u8
+江苏卫视,http://183.7.172.159:8888/hls/39/index.m3u8
+江苏卫视,https://py.doube.eu.org/ysp/2024171103/600002521
+北京卫视,http://tvlist.top/jd/index.php?id=bjws&qt=183.224.122.114:8014
+北京卫视,http://tvlist.top/jd/index.php?id=bjws&qt=118.212.78.251:8014
+北京卫视,https://py.doube.eu.org/ysp/2024052703/600002309
+安徽卫视,http://tvlist.top/jd/index.php?id=ahws&qt=183.224.122.114:8014
+安徽卫视,http://tvlist.top/jd/index.php?id=ahws&qt=118.212.78.251:8014
+安徽卫视,https://py.doube.eu.org/ysp/2024171403/600002532
+东方卫视,http://tvlist.top/jd/index.php?id=dfws&qt=183.224.122.114:8014
+东方卫视,https://py.doube.eu.org/ysp/2024054503/600002483
+东方卫视,http://119.123.176.238:8086/hls/129/index.m3u8
+东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+东南卫视,http://tvlist.top/jd/index.php?id=dnws&qt=183.224.122.114:8014
+东南卫视,http://tvlist.top/jd/index.php?id=dnws&qt=118.212.78.251:8014
+重庆卫视,http://tvlist.top/jd/index.php?id=cqws&qt=183.224.122.114:8014
+重庆卫视,http://tvlist.top/jd/index.php?id=cqws&qt=118.212.78.251:8014
+重庆卫视,https://py.doube.eu.org/ysp/2024061103/600002531
+甘肃卫视,http://tvlist.top/jd/index.php?id=gsws&qt=183.224.122.114:8014
+甘肃卫视,https://py.doube.eu.org/ysp/2025561703/600190408
+甘肃卫视,https://iptv.catvod.com/live.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86%E5%8F%B0
+贵州卫视,http://tvlist.top/jd/index.php?id=gzws&qt=183.224.122.114:8014
+贵州卫视,https://py.doube.eu.org/ysp/2024061603/600002490
+贵州卫视,http://23.237.228.134/live6/guizhou.m3u8
+河北卫视,http://tvlist.top/jd/index.php?id=hebeiws&qt=183.224.122.114:8014
+河北卫视,https://py.doube.eu.org/ysp/2024171503/600002493
+河北卫视,http://23.237.228.134/live8/hebei.m3u8
+河南卫视,http://156.238.248.80/2099.php?id=174
+河南卫视,http://tvlist.top/jd/index.php?id=hnws&qt=183.224.122.114:8014
+河南卫视,http://tvlist.top/jd/index.php?id=hnws&qt=118.212.78.251:8014
+河南卫视,https://py.doube.eu.org/ysp/2024059703/600002525
+河南卫视,http://119.123.176.238:8086/hls/52/index.m3u8
+黑龙江卫视,http://tvlist.top/jd/index.php?id=hljws&qt=183.224.122.114:8014
+黑龙江卫视,http://23.237.228.134/live6/heilongjiang.m3u8
+黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
+四川卫视,http://23.237.228.134/live6/sichuan.m3u8
+四川卫视,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86%E5%8F%B0
+吉林卫视,http://23.237.228.134/live8/jilin.m3u8
+吉林卫视,http://tvlist.top/jd/index.php?id=jlws&qt=183.224.122.114:8014
+吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86%E5%8F%B0
+吉林卫视,http://156.238.248.80/2099.php?id=168
+辽宁卫视,http://23.237.228.134/live8/liaoning.m3u8
+辽宁卫视,https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86%E5%8F%B0
+陕西卫视,http://23.237.228.134/live8/shanxiws.m3u8
+陕西卫视,http://live1.jzjsnm.cn/live1/sanxi_sd.m3u8?auth_key=1674384817144-0-0-2476be9217cd970a343f814c223684bb
+青海卫视,http://23.237.228.134/live8/qinghai.m3u8
+青海卫视,https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86%E5%8F%B0
+天津卫视,http://23.237.228.134/live8/tianjing.m3u8
+天津卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86%E5%8F%B0
+天津卫视,http://156.238.248.80/2099.php?id=1767
+山西卫视,http://23.237.228.134/live8/shanxi.m3u8
+山西卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
+山东卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86%E5%8F%B0
+山东卫视,http://23.237.228.134/live8/shandong.m3u8
+内蒙古卫视,http://156.238.248.80/2099.php?id=176
 
-港  澳,#genre#
-凤凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
-凤凰资讯台,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
-凤凰香港台,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
-港台电视31,mitv://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
-港台电视32,mitv://generationnexxxt.com:19806/9c0a161f9c59476584fe4d8effc125b6
-HOY TV,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
-翡翠台,mitv://147.135.39.171:9906/657c8f940005cf8fa955b96f23e11195
-J2,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
-无线新闻台,mitv://147.135.39.171:9906/657c8f940000cdb0a955b82762a73640
-无线新闻台,mitv://147.135.39.171:9906/657c8f93000dad85a955b78b7a3a4c4f
-无线财经体育资讯台,mitv://generationnexxxt.com:19806/8bcc654c89f74ebdb4e82062ef5f998c
-ViuTVsix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
-ViuTV,mitv://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
+少儿频道,#genre#
+CCTV14少儿,http://tvlist.top/jd/index.php?id=cctv14&qt=183.224.122.114:8014
+CCTV14少儿,https://iptv.catvod.com/live.php?id=CCTV-14
+CCTV14少儿,http://27.41.245.32:801/hls/14/index.m3u8
+广东少儿1080p,http://119.123.176.238:8086/hls/40/index.m3u8
+广东少儿1080p,http://14.21.90.68:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+广东少儿1080p,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Wkl8ta&tk=inWducl7RAaR
+广东少儿1080p,http://rihou.cc:555/tv/[AtI]广东少儿
+北京卡酷少儿,http://156.238.248.80/2099.php?id=172
+北京卡酷少儿,http://vapi.91kds.cc/live1/btv1.m3u8?id=btvkk&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
+北京卡酷少儿,http://114.242.62.109:888/hls/26/index.m3u8
+北京卡酷少儿,http://btjg.net:809/hls/49/index.m3u8
+金鹰卡通,http://59.173.123.31:8989/rtp/239.69.1.248:11130
+金鹰卡通,http://btjg.net:809/hls/70/index.m3u8
+金鹰卡通,http://shuangyashan.coccc.online:65000/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+优漫卡通,http://vapi.91kds.cc/live2/jsqx.m3u8?id=ymkt&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
+优漫卡通,http://156.238.248.80/2099.php?id=250
+嘉佳卡通720p,https://www.wmviv.com/iptv/bc2t.php?id=jjkt&line=2
+浙江少儿,http://156.238.248.80/2099.php?id=220
+浙江少儿,http://vapi.91kds.cc/live1/zjtv2.m3u8?id=zjtv8&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+河北少儿科教,http://vapi.91kds.cc/live1/hetv.m3u8?id=hese&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
+河北少儿科教,http://1.94.31.214/php/hebei.php?id=sekj
+内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+内蒙古少儿,http://156.238.248.80/2099.php?id=304
+海南少儿,http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
+海南少儿,http://47.108.20.161:8866/hainan/hainan.php?id=sepd
+重庆少儿,http://47.108.205.48/鸿雁重庆a.php?id=cqse
+甘肃少儿,https://liveout.gstv.com.cn/skt649/ys1xzs.m3u8
+黑龙江少儿,http://shuangyashan.coccc.online:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+江西少儿,http://113.195.172.192:808/hls/11/index.m3u8
+龙华卡通720p,http://cdn8.veryfast.filegear-sg.me/163189/lhkt
+东森幼幼台,https://live.catvod.com/live.php?id=yoyo_twn
 
-TVB星河,mitv://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
-澳门MACAU,mitv://generationnexxxt.com:19806/f9ba8df6f9ed45789e882211735e6414
-澳门莲花,mitv://generationnexxxt.com:19806/4c56fbe4e68541a9a759fa269574f98b
-NOW新闻台,mitv://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
-HKC 18,mitv://generationnexxxt.com:19806/140377dc9e0848678d614d451d69af9e
-戏曲台,mitv://generationnexxxt.com:19806/4c3b3c3a6c8849c3aa0fc9938859e134
-TVB娱乐新闻台,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
-TVB翡翠台,mitv://147.135.39.171:9906/657c8f9400023bf0a955b8853ca47814
-千禧经典台,mitv://generationnexxxt.com:19806/1a5b04c67ece47bb87aa482e2c73138a
-Thrill,mitv://generationnexxxt.com:19806/1c3c73215afd42558101c3ee65737202
-明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
-香港国际财经台,mitv://generationnexxxt.com:19806/6aa47af091b54d618d1513b1bc23b0b9
-18台,mitv://generationnexxxt.com:19806/8bf8f53c61944785b13817297101af20
-now财经台,mitv://generationnexxxt.com:19806/88f95058c046453a973e2540701ccb4e
-美亚电影台(粤语),mitv://generationnexxxt.com:19806/ee16565eb5fe46be8d22cbbde1fa9fae
-Hands Up,mitv://generationnexxxt.com:19806/7a79a82b627a417f897895b4adf874aa
-粤语片台,mitv://generationnexxxt.com:19806/3a44c9c92439443494b8ecff6fdb2336
-亚洲剧台,mitv://generationnexxxt.com:19806/ee081a662356489d8b2170952ec91d24
-功夫台,mitv://generationnexxxt.com:19806/ef6373344abf4bedae4d49ac953c1742
-HOY资讯台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
-黄金翡翠台,mitv://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
-私人影院,mitv://generationnexxxt.com:19806/3cfadd5e9af14d6db652b3c23acd7a7d
-GEM,mitv://generationnexxxt.com:19806/76f6e10887894d07bd5b225cc895e2a5
-八度空间,mitv://generationnexxxt.com:19806/c1351c973d544fd9b9fcf34d36cc3ab1
-天映频道,mitv://generationnexxxt.com:19806/f7581adcfa1e4eaa88b4d1206f3abe61
-翡翠台,mitv://generationnexxxt.com:19806/0485c5b3e68c43268b39c8e68b0e6244
-Astro欢喜台,mitv://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1d
-中天亚洲台,mitv://generationnexxxt.com:19806/7c932e1429374b358b547a75ebba7ca8
-TVBS亚洲台,mitv://generationnexxxt.com:19806/5459e179cc3b4ea49e5b6ed6a4f298c9
-东森亚洲卫视,mitv://generationnexxxt.com:19806/8a43d9cb067b47aaa8fd5f550930be0c
-KIX,mitv://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
+地方频道,#genre#
+北京文艺,http://114.242.62.109:888/hls/18/index.m3u8
+北京纪实科教,http://114.242.62.109:888/hls/19/index.m3u8
+北京影视,http://114.242.62.109:888/hls/20/index.m3u8
+北京财经,http://114.242.62.109:888/hls/21/index.m3u8
+北京体育休闲,http://114.242.62.109:888/hls/22/index.m3u8
+北京生活,http://114.242.62.109:888/hls/23/index.m3u8
+北京新闻,http://114.242.62.109:888/hls/25/index.m3u8
+北京卡酷少儿,http://114.242.62.109:888/hls/26/index.m3u8
+北京国际,http://114.242.62.109:888/hls/27/index.m3u8
 
-台  湾,#genre#
-民视,P2p://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
-台视,P2p://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
-大爱,P2p://generationnexxxt.com:19806/e89ec8c592484d88bc001e8d8a6c9e31
-中视,P2p://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
-霹雳台湾台,P2p://generationnexxxt.com:19806/dcdf778fe9ca4184ad6af3a911765cf0
-华视,P2p://generationnexxxt.com:19806/761bc3c0662247d18b0db4da8070b7f4
-公视,P2p://generationnexxxt.com:19806/5bc9388122b840f1abd2ff73c85049a6
-好消息,P2p://generationnexxxt.com:19806/febf2282369d409d92d68514b72fc433
-原住民电视台,P2p://generationnexxxt.com:19806/cb5b7549e3604100a605ca17c82808f5
-客家电视台,P2p://generationnexxxt.com:19806/eafabb6e7c30439b8ecd35ad40a46a96
-台视综合台,P2p://generationnexxxt.com:19806/6593a4d5000dedcb98fef0154abd184d
-探索频道,P2p://generationnexxxt.com:19806/9f2e92df32b34a569ad7e6818f4732fb
-TLC旅游生活,P2p://generationnexxxt.com:19806/621ca70412034f5eb919c1ec03679804
-动物星球,P2p://generationnexxxt.com:19806/5b41e724ea8e4e7eb92e3dac95589165
-CN卡通频道,P2p://generationnexxxt.com:19806/f4dd909eedc64e6b9736e248aedf6d61
-MOMO亲子台,P2p://generationnexxxt.com:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
-东森幼幼台,P2p://generationnexxxt.com:19806/baa16215e2224e399f6dc71eb3576ed4
-纬来综合台,P2p://generationnexxxt.com:19806/d40310ae8bba42569d3d90b4cf7d9928
-八大第一台,P2p://generationnexxxt.com:19806/270abff66f5e496fb9c100a0dbca3fe6
-八大综合台,P2p://generationnexxxt.com:19806/6c18a737c1394e59ae5072935d630f40
-三立台湾台,P2p://generationnexxxt.com:19806/ff12e8f29f9b4f61a9b766709aa498f6
-三立都会台,P2p://generationnexxxt.com:19806/7a36f98eee8e48a48ea64a1359083c8a
-东森综合台,P2p://generationnexxxt.com:19806/a05a4d8b51f54013925315261a2c6aa9
-超视,P2p://generationnexxxt.com:19806/5121f16c4b634c1683e9444aa68494b6
-中天综合台,P2p://generationnexxxt.com:19806/d6433dcd1a2a4aacb1c63a81ae8f11e6
-中天娱乐台,P2p://generationnexxxt.com:19806/6932151dd5a74b759a053f78a719fbf3
-东森戏剧台,P2p://generationnexxxt.com:19806/4fae332a68a04f3fa77a158ac1fa4bce
-八大戏剧台,P2p://generationnexxxt.com:19806/4eec82bd1e634ceab82b90e395116c83
-TVBS欢乐台,P2p://generationnexxxt.com:19806/569aec3edbbc4267bd6f829b3d495d5a
-纬来戏剧台,P2p://generationnexxxt.com:19806/69036778f8fc40729301e9e88aeee556
-高点综合台,P2p://generationnexxxt.com:19806/462775e2153243fc92adec0793c638d0
-BBCWorldNews,P2p://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a
-CNBC,P2p://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
-BloombergTV,P2p://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
-HITS,P2p://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
-壹电视新闻台,P2p://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
-年代新闻,P2p://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
-东森新闻台,P2p://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
-中天新闻台,P2p://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
-民视新闻台,P2p://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
-三立新闻台,P2p://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
-TVBS新闻台,P2p://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
-TVBS,P2p://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
-东森财经新闻台,P2p://generationnexxxt.com:19806/6596322e000d4091a2f7138e424b32c5
-非凡新闻台,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
-MOMO综合台,P2p://generationnexxxt.com:19806/659391fc000353d298b54dbe4b486dab
-东森电影台,P2p://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
-纬来电影台,P2p://generationnexxxt.com:19806/429796f5f00946fa933e400729286c7e
-龙祥电影,P2p://generationnexxxt.com:19806/78502c9b515845a7baca6a3a6ea88b8a
-HBO,P2p://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
-东森洋片台,P2p://generationnexxxt.com:19806/5e8420f5477344b9b7b39d9e96162ce1
-AXN,P2p://generationnexxxt.com:19806/893f7dec641a42458f47ccfbd93525ba
-好莱坞电影台,P2p://generationnexxxt.com:19806/9862f4958472458ca2ebc718bb92a5c6
-CINEMAX,P2p://generationnexxxt.com:19806/fd7fd316ff5f4ae0a79d274a86483a4f
-纬来育乐台,P2p://generationnexxxt.com:19806/78b57c4d9e644fafafe01588c43b4787
-纬来体育台,P2p://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a
-ELEVEN体育1台,P2p://generationnexxxt.com:19806/fcfde35352d5464f9ed1c711ef2d05b1
-JET综合台,P2p://generationnexxxt.com:19806/cbd0c62dcb2a45cfa04f672fb2c49d14
-国兴卫视,P2p://generationnexxxt.com:19806/18aaee00d2af442ebb4592e15f7b2a20
-Z频道,P2p://generationnexxxt.com:19806/8789d946039740bda334150ac3138166
-Animax,P2p://generationnexxxt.com:19806/22f75ace87a545aab39a2e4cd244bbad
-人间卫视,P2p://generationnexxxt.com:19806/6593ab070007d601991721de206b22e9
-尼克儿童频道,P2p://generationnexxxt.com:19806/879f28be19bc47df84ad3d5470be58d0
-八大娱乐台,P2p://generationnexxxt.com:19806/cea44ead76804413bd48caf76c5c2749
-三立iNEWS,P2p://generationnexxxt.com:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
-龙华偶像,P2p://generationnexxxt.com:19806/5b720b1e1b404f129e7009363d3035f8
-tvN,P2p://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
-France24,P2p://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694
-非凡商业台,P2p://generationnexxxt.com:19806/0c1ba96949414628ae64fc70c3354e7b
-公视3台,P2p://generationnexxxt.com:19806/95f2ed538e044aac891abfe6a9ce6ba7
-大爱2台,P2p://generationnexxxt.com:19806/2036b83c58e344c782eb154b233c8c77
-ELTV生活英语台,P2p://generationnexxxt.com:19806/78c0f08e89a844ef89d6803bce27a827
-靖洋卡通NiceBingo,P2p://generationnexxxt.com:19806/1279fb2d1ae14676a31b2e5b38a2cd57
-靖天卡通台,P2p://generationnexxxt.com:19806/0e27e5f319264b609ec810e126edf969
-NickJr.,P2p://generationnexxxt.com:19806/acebbded37714fa4a5554c025873a92c
-MezzoLive,P2p://generationnexxxt.com:19806/1c1e90cd01934a5f917ec4fad5c97665
-CLASSICA古典乐,P2p://generationnexxxt.com:19806/133be9054bcd4fa68d2e34205004a51a
-爱尔达体育1台(备),P2p://generationnexxxt.com:19806/1180278580d04cb490450ec59b4edc6b
-爱尔达体育2台,P2p://generationnexxxt.com:19806/d1f16ee235314a0fbc33742ab7af534b
-TRACESportStars,P2p://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a07035
-博斯高球,P2p://generationnexxxt.com:19806/6ff0b79453d2430986930b7c84a286df
-博斯高球二台,P2p://generationnexxxt.com:19806/8afa52d0fe0047f8a6d7e51f46697f93
-博斯网球台,P2p://generationnexxxt.com:19806/7fb5b66ce38747de84be865952153959
-博斯魅力网,P2p://generationnexxxt.com:19806/c585ebfbfc7c4260a8d9556b5409faf0
-博斯无限台,P2p://generationnexxxt.com:19806/f2973cfa7c2045e6b8a184f1bf18af7c
-博斯无限二台,P2p://generationnexxxt.com:19806/143f1c23ac834d28a5296d61fed9250c
-博斯运动,P2p://generationnexxxt.com:19806/6293839c167e4b6393c745db434b2465
-ELEVEN体育2台,P2p://generationnexxxt.com:19806/057061c0da744aa7b035169dba5ebe2a
-智林体育台,P2p://generationnexxxt.com:19806/931c171e2f774f7aa1a92e97f5098c9f
-博斯运动二台,P2p://generationnexxxt.com:19806/cbd52c51fbab49ae9b3bc0da9137f681
-HBO强档巨献,P2p://generationnexxxt.com:19806/563a5981b8ad4df085b59ce98bbecb95
-HBO原创巨献,P2p://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
-BBCEarth,P2p://generationnexxxt.com:19806/49261fefe28441bea7b775cc44fa16b5
-DiscoveryAsia,P2p://generationnexxxt.com:19806/0afefbe6244c42dbac40a3d8abef8d07
-Discovery科学频道,P2p://generationnexxxt.com:19806/39e1494bd82c449892c6f92a6c8dc213
-DMAX,P2p://generationnexxxt.com:19806/50af7fb4500840e292bcfae4dd50e97f
-EVE,P2p://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a
-历史频道,P2p://generationnexxxt.com:19806/e6f506b509c94bacb4a371cdbcbe7719
-罪案侦缉频道,P2p://generationnexxxt.com:19806/ef7b4ee3be374092a4a0074a6be41e03
-BBCLifestyle,P2p://generationnexxxt.com:19806/178e533979bb4ec3af9190ca475f23ef
-Lifetime,P2p://generationnexxxt.com:19806/112b06172cdf41cbb6990e64d30cab0c
-KLT-靖天国际台,P2p://generationnexxxt.com:19806/12d39bada24843588ad72a3175b785a2
-HGTV居家乐活频道,P2p://generationnexxxt.com:19806/84613e96237545769558cc572e6d1ab0
-LoveNature,P2p://generationnexxxt.com:19806/574be1e2e0054216abe436413ea4221a
-美食星球,P2p://generationnexxxt.com:19806/1baaeb6967434fee9bf4412904e573b0
-亚洲美食频道,P2p://generationnexxxt.com:19806/5b787bd078c84a3caa09c3665c66dc50
-亚洲旅游台,P2p://generationnexxxt.com:19806/259c24cb79ce4b5db1fb1e1b894c517e
-EYETV旅游台,P2p://generationnexxxt.com:19806/2d426994acef44deb401aa8a4cd5a92e
-好消息2台,P2p://generationnexxxt.com:19806/2b9f20946a6147dfba8f92373fbafee5
-三立综合台,P2p://generationnexxxt.com:19806/792a7263dd7b4c7484512d07f3c21083
-靖天资讯台,P2p://generationnexxxt.com:19806/5c9d432112fd4d4e92263a34415293fa
-靖天综合台,P2p://generationnexxxt.com:19806/ed2e3f294dcc40c1b72aba372fbed64d
-靖天育乐台,P2p://generationnexxxt.com:19806/d67fd6c2e7c44e17b9e86d9073f2930e
-中视经典台,P2p://generationnexxxt.com:19806/8b9e15ff15474ccbbc2780c1484e50c9
-中视菁采台,P2p://generationnexxxt.com:19806/ae5e01a7bc294327b88f65aa5d38217c
-TVBS精采台,P2p://generationnexxxt.com:19806/2089afbec2474359add275658522922f
-壹电视综合,P2p://generationnexxxt.com:19806/617d6cf150574cb485ee07aea57262fd
-纬来精采,P2p://generationnexxxt.com:19806/1db14fe8aad841b4b28eca2b136e7206
-ETtoday综合台,P2p://generationnexxxt.com:19806/8e1b32241c9d4d079a2df7dc99adb312
-民视第一台,P2p://generationnexxxt.com:19806/b97979cec8d74feebc370f3470cc06c6
-民视台湾台,P2p://generationnexxxt.com:19806/192bd12842624eb39e2f6b86eeacdca8
-NiceTV靖天欢乐台,P2p://generationnexxxt.com:19806/439163cf3469473b8ffd582b687991be
-八大优频道,P2p://generationnexxxt.com:19806/7abaa68442ce4ed7ad7c9772fb46eda9
-三立戏剧台,P2p://generationnexxxt.com:19806/7a5b874b630d457bb5997a2fe4690550
-龙华戏剧,P2p://generationnexxxt.com:19806/5d4f0bd2b18b4a588a0ca733569b18dd
-靖天戏剧台,P2p://generationnexxxt.com:19806/1282202787324223b35e3c84d9e673c6
-靖洋戏剧台,P2p://generationnexxxt.com:19806/84a559f1b4884854be933d5d4fc0d4a6
-靖天日本台,P2p://generationnexxxt.com:19806/c88dcc9ddf6747b991fc1a0db939147d
-i-Fun动漫台,P2p://generationnexxxt.com:19806/91a0e3fa1a714dd7b7cf55343052cd4f
-韩国娱乐台,P2p://generationnexxxt.com:19806/80d680dc15ec44bea9c3a3160ecdcb14
-达文西频道,P2p://generationnexxxt.com:19806/65939a080006919098d4bd6914a733d2
-ROCKExtreme,P2p://generationnexxxt.com:19806/fc56480dab3541a6a99d66c3d2048526
-中视新闻台,P2p://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
-寰宇新闻台,P2p://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
-华视新闻,P2p://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
-NHK新闻资讯台,P2p://generationnexxxt.com:19806/c2da55d84a72418c8f1876c25ec97a1d
-美亚电影台HD,P2p://generationnexxxt.com:19806/a850e570b868424c94319a2652ca7c62
-龙华电影,P2p://generationnexxxt.com:19806/1df6f5f0993a46faa17f676518654709
-Smart知识台,P2p://generationnexxxt.com:19806/65939c760002de7398de3a2e3f1b051b
-靖天映画,P2p://generationnexxxt.com:19806/b723859f3ed94e5ba712148b209eefd0
-靖天电影台,P2p://generationnexxxt.com:19806/d8c581e0e1a24823a3d2110e3584ef8b
-WARNERTV,P2p://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec
-公视台语台,P2p://generationnexxxt.com:19806/6593a0f40009baf898efc82314242462
-AMC最爱电影,P2p://generationnexxxt.com:19806/24ce0147e36a438eab843a3168cea3bc
-HBOFamily,P2p://generationnexxxt.com:19806/8a0208ebdfa04b5eab112f0c8b01719c
-CatchPlay电影台,P2p://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
-CinemaWorld,P2p://generationnexxxt.com:19806/e262f40881b2461f9a270b4d9d0b54c3
-壹电视电影台,P2p://generationnexxxt.com:19806/1be1329b6d124745a87a16de445d2352
-采昌影剧台,P2p://generationnexxxt.com:19806/a0d691053f9b4876ab2b509a62296911
-佛卫慈悲台,P2p://generationnexxxt.com:19806/be70c8b5b35c4551b5c7d3c905234e69
-TechStorm,P2p://generationnexxxt.com:19806/994876c6aadc4234ba73441f18d36602
-EYETV戏剧台,P2p://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f89
-台视新闻台,P2p://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
-寰宇新闻台湾台,P2p://generationnexxxt.com:19806/ca27b65855704124be186aa0e5127c24
-台视财经台,P2p://generationnexxxt.com:19806/e01d7738e33e456a812f7cefbf27b29a
-纬来日本,P2p://generationnexxxt.com:19806/5f9d37ba1fc04a04aaec6979908294a2
-爱尔达影剧台,P2p://generationnexxxt.com:19806/932d4522f2294c6a926b7ab8027c269f
-民视(备),P2p://generationnexxxt.com:19806/8d864649cfc54b518b3d137d67583155
-三立台湾台(备),P2p://generationnexxxt.com:19806/7554a57ea53f4c10ae4e219ac2d374c4
-影迷数位电影台,P2p://generationnexxxt.com:19806/bc069c037478448a9e41dbc3e1d5d0f6
-爱尔达体育1台,P2p://generationnexxxt.com:19806/68e521d35c0247ddbc5073dee98245a3
-爱尔达体育3台,P2p://generationnexxxt.com:19806/3ebc6b89559c44dca30c4c259a5646b9
-台视(备),P2p://generationnexxxt.com:19806/3c20d4387ec845149b2ded5f28805f18
-爱尔达体育4台,P2p://generationnexxxt.com:19806/df4f198dbe6347e1a084c79d208f227d
-中视(备),P2p://generationnexxxt.com:19806/c4ede9c3d1a84d0b9afe57622abcb9e7
-华视(备),P2p://generationnexxxt.com:19806/177390ae66634acca9be01242a769660
-东森新闻台(备),P2p://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
-镜新闻,P2p://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
-MTV,P2p://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
-东森购物1台,P2p://generationnexxxt.com:19806/eccc79da1c0a4b54b49a71277e1534a0
-东森购物2台,P2p://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
+18+频道(免翻),#genre#
+花花公子PLAYBOY 720p,http://sinalprivado.info:80/632035/GqGcFV4ntu/40000
+约炮视频24小时播放,http://bo.xn--tcwu45i.com/live/cx_15672.flv
+PORNBOX TRANS: TRANS EROTICA,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159952
+PORNBOX: A GIRL KNOWS,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159953
+PORNBOX: ADULT TIME,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159954
+PORNBOX: ALL BLACK X,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159955
+PORNBOX: ALL GROUP SEX,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159956
+PORNBOX: AMATEUR EURO,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159957
+PORNBOX: ANALIZED,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159958
+PORNBOX: BABES,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159959
+PORNBOX: BANG BROS NETWORK,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159960
+PORNBOX: BIPHORIA,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159961
+PORNBOX: BLACKED,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159962
+PORNBOX: BLOW ME POV,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159963
+PORNBOX: BOX OF PORN,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159964
+PORNBOX: BRATTY SIS,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159965
+PORNBOX: BRAZZERS,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159966
+PORNBOX: BUMS BUS,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159967
+PORNBOX: CASTING COUCH,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159968
+PORNBOX: CUM 4K,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159969
+PORNBOX: DAGFS,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159970
+PORNBOX: DDF BUSTY,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159971
+PORNBOX: DIABOLIC,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159972
+PORNBOX: DIGITAL PLAYGROUND,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159973
+PORNBOX: DOGFART NETWORK,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159974
+PORNBOX: DORCEL CLUB,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159975
+PORNBOX: DREAMROOM,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159976
+PORNBOX: EROTIKVONBENAN,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159977
+PORNBOX: FAKE HOSTEL,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159979
+PORNBOX: FAKE TAXI,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159980
+PORNBOX: FAMILY STROKES,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159981
+PORNBOX: FAMILY SWAP XXX,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159982
+PORNBOX: FAPADOO,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159983
+PORNBOX: FILTHY POV,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159984
+PORNBOX: FIRST ANAL QUEST,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159985
+PORNBOX: FIT 18,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159986
+PORNBOX: GOTMYLF,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159987
+PORNBOX: HENTAINED,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159988
+PORNBOX: HER LIMIT,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159989
+PORNBOX: HOLED,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159990
+PORNBOX: HOT WIFE XXX,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159991
+PORNBOX: HUSSIE PASS,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159992
+PORNBOX: INTERRACIAL PASS,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159993
+PORNBOX: JAYS POV,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159994
+PORNBOX: JESH BY JESH,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159995
+PORNBOX: JOI BABES,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159996
+PORNBOX: JULES JORDAN,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159997
+PORNBOX: KINKY FAMILY,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159998
+PORNBOX: KINKY INLAWS,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159999
+PORNBOX: LETHAL HARDCORE,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160001
+PORNBOX: LETHAL TEENS,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160002
+PORNBOX: LETS DOE IT,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160003
+PORNBOX: LIFE SELECTOR,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160004
+PORNBOX: LOVE HER FEET,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160005
+PORNBOX: LOVE HOME PORN,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160006
+PORNBOX: LUBED,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160007
+PORNBOX: LUXURE,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160008
+PORNBOX: MAMACITAZ,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160009
+PORNBOX: MASSAGE ROOMS,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160010
+PORNBOX: MODEL MEDIA ASIA,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160011
+PORNBOX: MOFOS,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160012
+PORNBOX: MOM TEACH SEX,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160013
+PORNBOX: MOM XXX,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160014
+PORNBOX: MOMMY BLOWS BEST,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160015
+PORNBOX: MUST NOT FAP,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160016
+PORNBOX: MY DIRTY HOBBY,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160017
+PORNBOX: MY FAMILY PIES,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160018
+PORNBOX: MY LIFE IN MIAMI,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160019
+PORNBOX: MY PERVY FAMILY,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160020
+PORNBOX: MY TINY WISH,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160021
+PORNBOX: MYLF,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160022
+PORNBOX: NEW SENSATIONS,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160023
+PORNBOX: NF BUSTY,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160024
+PORNBOX: NUBILE FILMS,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160025
+PORNBOX: NURU MASSAGE,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160026
+PORNBOX: PASSION,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160027
+PORNBOX: PERV CITY,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160028
+PORNBOX: PERV MOM,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160029
+PORNBOX: PORN WORLD HARDCORE,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160030
+PORNBOX: PORNHOCHIC,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160031
+PORNBOX: POVD,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160032
+PORNBOX: PRENCESS CUM,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160033
+PORNBOX: PRIVATE,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160034
+PORNBOX: PROPERTY SEX,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160035
+PORNBOX: PUBLIC AGENT,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160036
+PORNBOX: PURE MATURE,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160037
+PORNBOX: REAL DIRTY VIDEOS,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160038
+PORNBOX: REALITY JUNKIES,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160040
+PORNBOX: REALITY KINGS,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160041
+PORNBOX: SLIM 4K,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160042
+PORNBOX: STROKIES,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160043
+PORNBOX: SUGAR BABES TV,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160044
+PORNBOX: SWEET SINNER,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160045
+PORNBOX: THROATED,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160046
+PORNBOX: TRUE AMATUERS,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160047
+PORNBOX: X CHIMERA,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160048
+STARS EXCLUSIVE: ABELLA DANGER,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160049
+STARS EXCLUSIVE: ADRIANA CHECHIK,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160050
+STARS EXCLUSIVE: ALINA LOPEZ,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160051
+STARS EXCLUSIVE: ARIANA MARIE,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160053
+STARS EXCLUSIVE: AUGUST AMES,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160054
+STARS EXCLUSIVE: AUTUMN FALLS,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160055
+STARS EXCLUSIVE: BRANDI LOVE,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160056
+STARS EXCLUSIVE: DANI DANIELS,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160057
+STARS EXCLUSIVE: DANI JENSEN,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160058
+STARS EXCLUSIVE: ELSA JEAN,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160059
+STARS EXCLUSIVE: EMILY WILLIS,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160060
+STARS EXCLUSIVE: EVA LOVIA,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160061
+STARS EXCLUSIVE: GINA VALENTINA,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160062
+STARS EXCLUSIVE: JANICE GRIFFITH,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160063
+STARS EXCLUSIVE: JESSA RHODES,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160064
+STARS EXCLUSIVE: LANA RHOADES,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160065
+STARS EXCLUSIVE: LENA PAUL,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160066
+STARS EXCLUSIVE: LISA ANN,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160067
+STARS EXCLUSIVE: MADISON IVY,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160068
+STARS EXCLUSIVE: MIA MALKOVA,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160069
+STARS EXCLUSIVE: NICOLE ANISTON,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160070
+STARS EXCLUSIVE: RILEY REID,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160071
+STARS EXCLUSIVE: UMA JOLIE,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160072
+STARS EXCLUSIVE: VALENTINA NAPPI,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160073
+VERIFIED AMATEURS: ALICE REDLIPS,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160074
+VERIFIED AMATEURS: BIGTITTYGOTHEGG,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160075
+VERIFIED AMATEURS: CHERRY GRACE,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160076
+VERIFIED AMATEURS: DIANA DANIELS,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160078
+VERIFIED AMATEURS: ELLAKAI,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160079
+VERIFIED AMATEURS: FIAMURR,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160080
+VERIFIED AMATEURS: KRISS KISS,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160081
+VERIFIED AMATEURS: LEAH MEOW,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160082
+VERIFIED AMATEURS: LUXURYGIRL,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160083
+VERIFIED AMATEURS: MIKANIKA69,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160084
+VERIFIED AMATEURS: MINI DIVA,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160085
+VERIFIED AMATEURS: MOLLYREDWOLF,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160086
+VERIFIED AMATEURS: NOFACEGIRL,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160087
+VERIFIED AMATEURS: NOTSOAMATEUR,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160088
+VERIFIED AMATEURS: NYNA FERRAGNI,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160089
+VERIFIED AMATEURS: PURPLE BITCH,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160090
+VERIFIED AMATEURS: REISLIN,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160091
+VERIFIED AMATEURS: SECRETCRUSH,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160092
+VERIFIED AMATEURS: SHAIDEN ROUGE,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160093
+VERIFIED AMATEURS: SOLAZOLA,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160094
+VERIFIED AMATEURS: SWEET BUNNY,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160095
+VERIFIED AMATEURS: TESSA WINTERS,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160096
+VERIFIED AMATEURS: TINNA ANGEL,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160097
+VERIFIED AMATEURS: YINYLEON,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/160098
+X4 | 404HotFound,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215434
+X4 | A Girls Knows,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215435
+X4 | Abella Danger,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215436
+X4 | Active Duty,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215437
+X4 | Adria Rae,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215438
+X4 | Adriana Chechik,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215439
+X4 | Adult Mobile,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215440
+X4 | Aeries Steele,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215441
+X4 | Alex Adams,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215442
+X4 | Alexis Crystal,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215443
+X4 | Alexis Fawx,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215444
+X4 | Alexis Tae,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215445
+X4 | Alexis Texas,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215446
+X4 | Alina Lopez,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215447
+X4 | Alina Rai,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215448
+X4 | Allinika,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215449
+X4 | Amadani,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215450
+X4 | Amateurtwo,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215452
+X4 | Amber Moore,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215453
+X4 | Anal,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215454
+X4 | Anal,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215455
+X4 | Anal4K,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215457
+X4 | Analized,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215458
+X4 | Anastangel,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215459
+X4 | Angela White,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215461
+X4 | Anny Walker,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215462
+X4 | Aria Lee,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215463
+X4 | ASGmax,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215464
+X4 | Asian,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215465
+X4 | Athena Faris,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215466
+X4 | Aunt Judys XXX,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215467
+X4 | Autumn Falls,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215468
+X4 | Ava Addams,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215469
+X4 | BadCuteGirl,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215470
+X4 | BadFamilyPov,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215471
+X4 | Bang Bros Network,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215472
+X4 | BBW,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215474
+X4 | Behind the Scenes,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215475
+X4 | Bellamurr,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215476
+X4 | BFFs,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215477
+X4 | Big Ass,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215478
+X4 | Big Boobs,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215479
+X4 | BigTittyGothEgg,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215480
+X4 | Black Money,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215481
+X4 | Blair Williams,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215483
+X4 | Blake Blossom,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215484
+X4 | Blaze Rager,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215485
+X4 | Blonde,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215486
+X4 | Blowjob,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215487
+X4 | Blowjob,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215488
+X4 | Bob Big Tula,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215489
+X4 | Bonniealex,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215491
+X4 | Brandi Love,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215492
+X4 | Bratty Milf,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215493
+X4 | Bratty Sis,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215494
+X4 | Brazzers,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215495
+X4 | Bromo,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215496
+X4 | Brooke Tilli,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215497
+X4 | Candy Love,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215499
+X4 | Carla Cute,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215501
+X4 | Casting Couch,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215503
+X4 | Cherie DeVille,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215504
+X4 | Chessie Rae,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215505
+X4 | Chole Temple,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215506
+X4 | Chuck Hunter,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215507
+X4 | Close Up,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215508
+X4 | College,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215509
+X4 | Cosplay,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215511
+X4 | Creamy Spot,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215513
+X4 | Crystal Lust,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215514
+X4 | Crystal Rush,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215515
+X4 | Cuckold,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215516
+X4 | Cum in Mouth,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215517
+X4 | Cumshot,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215518
+X4 | Cutie Kim,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215519
+X4 | Czech Soles,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215520
+X4 | Czrok,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215521
+X4 | Dani Daniels,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215522
+X4 | Daniela Antury,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215523
+X4 | Davcina,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215524
+X4 | Delphine,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215525
+X4 | DeLuXeGirL,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215526
+X4 | Diana Daniels,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215527
+X4 | Diana Rider,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215528
+X4 | DickForLily,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215529
+X4 | Digital Climaxxx,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215530
+X4 | Digital Playground,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215531
+X4 | Dillion Harper,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215532
+X4 | Doghouse Digital,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215533
+X4 | Double Penetration,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215534
+X4 | Ebony,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215535
+X4 | Eliza Ibarra,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215537
+X4 | Elsa Jean,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215539
+X4 | Ema Karter,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215540
+X4 | Emanuelly Raquel,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215541
+X4 | Emily Willis,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215542
+X4 | Emma Fiore,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215543
+X4 | Estter Muniz,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215545
+X4 | Eva Elfie,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215546
+X4 | Eva Lovia,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215547
+X4 | Family Hookups,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215550
+X4 | Family Strokes,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215551
+X4 | FAMILYxxx,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215552
+X4 | Fetish,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215554
+X4 | Fisting,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215556
+X4 | Full,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215557
+X4 | Futanari,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215558
+X4 | Gabbie Carter,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215559
+X4 | GentlyPerv,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215561
+X4 | Gia Paige,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215563
+X4 | Gina Valentina,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215564
+X4 | Ginebra Bellucci,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215565
+X4 | GirlGirlXXX,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215567
+X4 | Girls Only,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215568
+X4 | Handjob,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215571
+X4 | Hardcore,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215572
+X4 | Hazel Moore,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215573
+X4 | Hentai,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215574
+X4 | Her Limit,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215575
+X4 | HeteroFlexible,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215576
+X4 | Hijab,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215577
+X4 | Horny Hostel,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215579
+X4 | Hot Wife XXX,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215580
+X4 | Hung Young Brit,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215581
+X4 | Japan Uncensored,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215583
+X4 | Jays Pov,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215584
+X4 | Jenny Lux,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215585
+X4 | Jessa Rhodes,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215586
+X4 | Jia Lissa,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215588
+X4 | Joey Lee,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215589
+X4 | John and Sky,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215590
+X4 | Julie Jess,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215591
+X4 | Kagney Linn Karter,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215592
+X4 | Karma Rx,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215594
+X4 | Kelsi Monroe,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215597
+X4 | Kenna James,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215599
+X4 | Kenzie Madison,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215600
+X4 | Kenzie Reeves,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215601
+X4 | Kimmy Granger,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215602
+X4 | Kitty K,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215603
+X4 | Klinky Spa,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215604
+X4 | Kourtney Love,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215605
+X4 | Kriss Kiss,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215606
+X4 | Kylie Rocket,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215607
+X4 | Lacy Lennon,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215609
+X4 | Lana Rhoades,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215610
+X4 | LaSirena69,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215611
+X4 | Latina Milf,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215613
+X4 | Lauren Phillips,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215614
+X4 | Layla Ray,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215615
+X4 | Leah Gotti,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215616
+X4 | Leana Lovings,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215617
+X4 | Lela Star,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215618
+X4 | Lesbian,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215621
+X4 | LetsDoelt,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215622
+X4 | LetsDoelt Bonus,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215623
+X4 | Lexi Lore,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215624
+X4 | Lexi Luna,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215625
+X4 | Little Caprice,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215627
+X4 | Little Tina,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215628
+X4 | Littlebuffbabe,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215629
+X4 | Loliiiiipop99,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215630
+X4 | Loly Lips,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215631
+X4 | Lulu Chu,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215633
+X4 | Luna Okko,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215634
+X4 | Luna Roulette,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215635
+X4 | Luxury Girl,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215637
+X4 | Magic Asian Pussy,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215639
+X4 | MamacitaZ,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215640
+X4 | Mariana Martix,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215641
+X4 | MartinPaola,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215642
+X4 | Massage,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215643
+X4 | Mature,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215645
+X4 | MeeHuTao,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215646
+X4 | Mei Pang,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215648
+X4 | Melody Marks,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215649
+X4 | Men,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215650
+X4 | MewSlut,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215651
+X4 | Mia Malkova,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215652
+X4 | MihaNika69,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215653
+X4 | Mila Solana,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215654
+X4 | Milana Milka,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215655
+X4 | Milf,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215656
+X4 | Milfed,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215657
+X4 | Mini Diva,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215658
+X4 | Mira David,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215659
+X4 | Mirrari Hub,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215660
+X4 | Miss Ary,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215661
+X4 | Missionary,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215663
+X4 | Missionary Boys,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215664
+X4 | Mofos,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215665
+X4 | Molly Pills,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215668
+X4 | MollyRedWolf,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215669
+X4 | Mom Lover,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215670
+X4 | Mom Tight,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215671
+X4 | Mom Wants Creampie,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215672
+X4 | Moms Teach Sex,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215674
+X4 | My BF Doesnt Know,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215676
+X4 | My Friends Hot Mom,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215677
+X4 | My Pervy Family,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215678
+X4 | MyAnny,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215679
+X4 | MYLF,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215680
+X4 | Nadia Foxx,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215681
+X4 | Nadja Rey,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215682
+X4 | Natasha Nice,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215683
+X4 | New Sensations,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215684
+X4 | Next Door Buddies,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215685
+X4 | Next Door Raw,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215686
+X4 | Next Door Studios,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215687
+X4 | Next Door Taboo,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215688
+X4 | Next Door Twink,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215689
+X4 | NF Busty,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215690
+X4 | Nicole Aniston,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215691
+X4 | NoFaceGirl,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215692
+X4 | Nubile Films,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215693
+X4 | Nubiles,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215694
+X4 | Nyna Ferragni,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215695
+X4 | Paige Steele,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215696
+X4 | Pamsnusnu,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215697
+X4 | Pantyhose,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215698
+X4 | Parasited,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215699
+X4 | Payton Preslee,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215701
+X4 | Penny Barber,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215702
+X4 | Perv Mom,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215703
+X4 | Perv Nana,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215704
+X4 | Peter Fever,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215705
+X4 | Pinkloving,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215707
+X4 | Piper Perri,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215708
+X4 | Pissing,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215709
+X4 | Porn Pros,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215711
+X4 | POV,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215712
+X4 | Proberty Sex,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215714
+X4 | Puffy Pink,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215716
+X4 | Pure Mature,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215717
+X4 | Pure Pleasure,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215718
+X4 | Pussy Eating,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215720
+X4 | Pussy Licking,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215721
+X4 | Reagan Foxx,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215725
+X4 | Real Men Fuck,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215726
+X4 | Reality Junkies,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215728
+X4 | Reality Kings,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215729
+X4 | RealTelariLove,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215730
+X4 | Red Head,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215731
+X4 | Reislin,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215732
 
-马来西亚,#genre#
-TV1,P2p://generationnexxxt.com:19806/a3299ebd988b447992cf982df2ea7562
-TV2,P2p://generationnexxxt.com:19806/facbc81537924664aaf429b4e0faec17
-TV3,P2p://generationnexxxt.com:19806/6a00a0b3636340a4bc00626fedaa36f6
-NTV7,P2p://generationnexxxt.com:19806/7c0bb3dc5b304064809b7b4711d75ccc
-八度空间,P2p://generationnexxxt.com:19806/c1351c973d544fd9b9fcf34d36cc3ab1
-TV9,P2p://generationnexxxt.com:19806/cd4d90b0f1c84d33ae6ab4ebf09ce61a
-AstroOasisHD,P2p://generationnexxxt.com:19806/ba94a812ece14f4484d550852d736644
-Al-Hijrah,P2p://generationnexxxt.com:19806/2bbbb59b7e4c44e1ac91c3a4e9fa222a
-TVOkey,P2p://generationnexxxt.com:19806/c393e305d0034cb383ed076f9f711f1a
-SUNTV,P2p://generationnexxxt.com:19806/4bb094b241874180af9f61a56370ce35
-爱奇艺,P2p://generationnexxxt.com:19806/220100b4bf8a42b49b38d1152cf9ab84
-Astro小太阳,P2p://generationnexxxt.com:19806/b9014d57594d4cfdb87848d4b2610506
-AstroAEC(备),P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
-天映频道,P2p://generationnexxxt.com:19806/f7581adcfa1e4eaa88b4d1206f3abe61
-翡翠台(华丽台),P2p://generationnexxxt.com:19806/0485c5b3e68c43268b39c8e68b0e6244
-AstroAODHD311,P2p://generationnexxxt.com:19806/676d5767c17749f8950a81ed8681380a
-中天亚洲台,P2p://generationnexxxt.com:19806/7c932e1429374b358b547a75ebba7ca8
-TVB星河(粤),P2p://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
-天映经典,P2p://generationnexxxt.com:19806/3ac31fa9f30145b68f8469b00d91b200
-Astro欢喜台,P2p://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1d
-KBSWorld,P2p://generationnexxxt.com:19806/61432c16625e41d3b52570bb136f5054
-TVS,P2p://generationnexxxt.com:19806/18061f7a3a814916bebc76d2363b31e9
-tvNMoviesHD,P2p://generationnexxxt.com:19806/c6e40b3dec3344909fc0ca9378a7f4c7
-AstroAwani,P2p://generationnexxxt.com:19806/35b5cce22fc04eb59b09311468ab603a
-CGTN,P2p://generationnexxxt.com:19806/a478d869f49148b09b5ad2ddfa73e36b
-BBCWorldNews,P2p://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a
-CNBC,P2p://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
-BloombergTV,P2p://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
-AstroCeria,P2p://generationnexxxt.com:19806/65a60c7700089e76e0e3d6806c8b1e66
-Boomerang,P2p://generationnexxxt.com:19806/65619d3500003c6967236ef726ef1633
-KIX,P2p://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
-HITS,P2p://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
-AstroArena,P2p://generationnexxxt.com:19806/c046c74b43184a9bac5b0e402944aca5
-AstroSuperSport,P2p://generationnexxxt.com:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
-AstroSuperSport2,P2p://generationnexxxt.com:19806/650d4fca00064e791dd4dbcd16fd08c0
-AstroSuperSport3,P2p://generationnexxxt.com:19806/5b9b9986c20244908be60c3f18a3e435
-AstroSuperSport4,P2p://generationnexxxt.com:19806/c7f1be20958243f68c943016c446501e
-beINSports3,P2p://generationnexxxt.com:19806/65a52dc1000d76fbdd7dd8ab186b4afd
-WWE,P2p://generationnexxxt.com:19806/32e0838eeab84b3a96297dcceca27f5a
-SkyNews,P2p://generationnexxxt.com:19806/f023e7189a5541b3a288267608b4836a
-八度空间(备),P2p://generationnexxxt.com:19806/34bef24c069e40779fb4b4c827e0051f
-tvN,P2p://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
-BeritaRTM,P2p://generationnexxxt.com:19806/da7e362a8d2e40b3bbe02f430a39fc0e
-France24,P2p://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694
-SPOTV,P2p://generationnexxxt.com:19806/60ad67b765414b32882a24ce6c63808a
-beINSports,P2p://generationnexxxt.com:19806/eefa5931a750470d8a3267932e36c644
-TVB娱乐新闻台,P2p://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
-AstroAEC,P2p://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
-AwesomeTV,P2p://generationnexxxt.com:19806/3653aa8c401947d4882212e59c54bfba
-BOO,P2p://generationnexxxt.com:19806/72791d5b2d0847bdbd28aaee41af5537
-千禧经典台,P2p://generationnexxxt.com:19806/1a5b04c67ece47bb87aa482e2c73138a
-ABCAustralia,P2p://generationnexxxt.com:19806/65159e6a0003ce6d3e47fc21533740b0
-EurosportHD,P2p://generationnexxxt.com:19806/65159769000b9a153e2ca23c14c042d2
-ArenaBola,P2p://generationnexxxt.com:19806/6597c3de0009a0efa91838f96fd623b1
-StarVijay,P2p://generationnexxxt.com:19806/9ae9ad5dd9884ef5b30d006572db2572
-ZeeTamil,P2p://generationnexxxt.com:19806/65a60dec0007945de0e9874a4d685350
-TVBS亚洲,P2p://generationnexxxt.com:19806/5459e179cc3b4ea49e5b6ed6a4f298c9
-HITSMovies,P2p://generationnexxxt.com:19806/72b44f288c8c4c5baa031ec11d9e0e35
-beINSports2,P2p://generationnexxxt.com:19806/65619d35000372e967236fc35ab64b39
-GolfChannel,P2p://generationnexxxt.com:19806/65619e930003f0fc6728c71226a25f2d
+18+私密频道(梯子),#genre#
+极限电影台,http://live-broadcast-sh-service.vcinema.cn/live/5b7875a92594e6736380531cfe6871e5.flv
+极限电影台(梯子),http://z88.ubtvfans.com/live/rx3/2909/1f9debc5947d5756fec2908a357427e3/index.m3u8
+极限电影台(梯子),http://lc.aacalive.com:26789/i/ghjnvq5o/8c855fdf/index.m3u8
+极限电影台(梯子),https://z88.ubtvfans.com/live/rx3/2909/b559f5319cf679f02c321cdd4dd9d88c/index.m3u8
+彩虹E(梯子),http://z88.ubtvfans.com/live/rx4/2935/b2216e8fc2323f8a0a275e7c62df8732/index.m3u8
+彩虹E(梯子),http://lc.aacalive.com:26789/i/ghjnvq5o/8c855daa/index.m3u8
+HAPPY(梯子),http://z88.ubtvfans.com/live/rx3/2908/4c3e4b9e99716d8b7116e48bfb348363/index.m3u8
+Banana香蕉台HD(梯子),http://z88.ubtvfans.com/live/rx3/2930/f1b639cdb783636b957ca60e67a2c6b3/index.m3u8
+驚艷台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+驚艷台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+驚艷台,http://lc.aacalive.com:26789/i/ghjnvq5o/mdfdc123/index.m3u8
+潘朵拉完美,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+潘朵拉完美,http://z88.ubtvfans.com/live/rx2/410/dc6da1a743d7d4b1aeefc872489e7c58/index.m3u8
+潘朵拉完美,http://z3.ubtvfans.com/live/rx3/410/66c109fb88bb7a37dc95ee016b973074/index.m3u8
+松视1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+松视1,http://lc.aacalive.com:26789/i/ghjnvq5o/8c85giea/index.m3u8
+松视2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+松视2,http://lc.aacalive.com:26789/i/ghjnvq5o/8c85fsaf/index.m3u8
+松視3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+松視3,http://z88.ubtvfans.com/live/rx2/404/d4cddf5dd02c52c1eced8dd7f0b2ccb0/index.m3u8
+松視3,http://z3.ubtvfans.com/live/rx3/404/57ed7bfbbca3bc4f719e9d9519a4f409/index.m3u8
 
-新加坡,#genre#
-天映频道,P2p://generationnexxxt.com:19806/f7581adcfa1e4eaa88b4d1206f3abe61
-中天亚洲台,P2p://generationnexxxt.com:19806/7c932e1429374b358b547a75ebba7ca8
-TVB星河(粤),P2p://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
-天映经典,P2p://generationnexxxt.com:19806/3ac31fa9f30145b68f8469b00d91b200
-KBSWorld,P2p://generationnexxxt.com:19806/61432c16625e41d3b52570bb136f5054
-CGTN,P2p://generationnexxxt.com:19806/a478d869f49148b09b5ad2ddfa73e36b
-BBCWorldNews,P2p://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a
-CNBC,P2p://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
-BloombergTV,P2p://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
-Boomerang,P2p://generationnexxxt.com:19806/65619d3500003c6967236ef726ef1633
-HITS,P2p://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
-beINSports3,P2p://generationnexxxt.com:19806/65a52dc1000d76fbdd7dd8ab186b4afd
-Mediacorp5,P2p://generationnexxxt.com:19806/7ecf2b27c2554eef87bb4b3603e82a4f
-Mediacorp8,P2p://generationnexxxt.com:19806/02b0b2bfe7974369b811f418dcd4eddf
-Suria,P2p://generationnexxxt.com:19806/9ea5cf9604c545c88d5a634f5450204b
-Vasantham,P2p://generationnexxxt.com:19806/c59b3a242b644ec2ba2d3398ad14189b
-CNA,P2p://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
-MediacorpU,P2p://generationnexxxt.com:19806/1c7cdb0005764374ab173154f8418848
-Euronews,P2p://generationnexxxt.com:19806/5b3289dff2154e2c8e166cc3f081f326
-FightSports,P2p://generationnexxxt.com:19806/7375a5f151c047b294a8e8c6ddad178d
-GEM,P2p://generationnexxxt.com:19806/76f6e10887894d07bd5b225cc895e2a5
-FoxNews,P2p://generationnexxxt.com:19806/e9305a82b75c42f5901c0594e063e999
-beINSports,P2p://generationnexxxt.com:19806/eefa5931a750470d8a3267932e36c644
-HGTV居家乐活频道,P2p://generationnexxxt.com:19806/84613e96237545769558cc572e6d1ab0
-东森亚洲卫视,P2p://generationnexxxt.com:19806/8a43d9cb067b47aaa8fd5f550930be0c
-Thrill,P2p://generationnexxxt.com:19806/1c3c73215afd42558101c3ee65737202
-TVBS亚洲,P2p://generationnexxxt.com:19806/5459e179cc3b4ea49e5b6ed6a4f298c9
-NBA,P2p://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
-beINSports2,P2p://generationnexxxt.com:19806/65619d35000372e967236fc35ab64b39
+安博私密(梯子),#genre#
+极限電影台,http://z88.ubtvfans.com/live/rx3/2909/1f9debc5947d5756fec2908a357427e3/index.m3u8
+HAPPY,http://z88.ubtvfans.com/live/rx3/2908/4c3e4b9e99716d8b7116e48bfb348363/index.m3u8
+彩虹E,http://z88.ubtvfans.com/live/rx4/2935/b2216e8fc2323f8a0a275e7c62df8732/index.m3u8
+Banana香蕉台HD,http://z88.ubtvfans.com/live/rx3/2930/f1b639cdb783636b957ca60e67a2c6b3/index.m3u8
 
-日本,#genre#
-NHK-G综合,P2p://generationnexxxt.com:19806/810050ee3b224cffbff84c07e53c499a
-NHK-E教育,P2p://generationnexxxt.com:19806/797e091247a14ad2a918c9cb2e95cca3
-日本テレビ,P2p://generationnexxxt.com:19806/e83c93ef5c914ed3826fe7856b81acf0
-TBSテレビ,P2p://generationnexxxt.com:19806/9376bfbc1275463dadf7d89cf5eebf6c
-テレビ東京,P2p://generationnexxxt.com:19806/df391d094cf243bda2d71eea2543f6a3
-フジテレビ,P2p://generationnexxxt.com:19806/54dd404db8674941a08958b36acf24a7
-読売テレビ,P2p://generationnexxxt.com:19806/67e4cf369c3041ae9df1aca8b83fecf8
-関西テレビ,P2p://generationnexxxt.com:19806/bfb58a0f01504914883d882ee3082053
-KBS京都,P2p://generationnexxxt.com:19806/729ad31db2414a458905bbadb735bbae
-毎日放送,P2p://generationnexxxt.com:19806/ccac43e2944e468b91bcba848d34c3fd
-朝日放送,P2p://generationnexxxt.com:19806/b9fd3c1349444e5d8e73b51b2fd298f9
-テレビ大阪,P2p://generationnexxxt.com:19806/ad58b2a5a3554960a7cab3825097b6e6
-BS-1,P2p://generationnexxxt.com:19806/bb73b7a100954eb0a941586c172b75da
-BS日テレ,P2p://generationnexxxt.com:19806/15653a24109f412d8c13623fe3d8cbce
-BS朝日,P2p://generationnexxxt.com:19806/823835bf82b648b7b949cd6b10b9465f
-BS-TBS,P2p://generationnexxxt.com:19806/3158a94fbe3c43d0938fdbb5c727e3d7
-BS11,P2p://generationnexxxt.com:19806/a4be116db92743e1ac8dc4d6a86ebed1
-BSフジ,P2p://generationnexxxt.com:19806/ecd5225855164918853748cdf29fa61a
-WOWOWプライム,P2p://generationnexxxt.com:19806/b6120a213ab04f9f830e9435530eb905
-WOWOWライブ,P2p://generationnexxxt.com:19806/ff616330600e438d97cf03101ae7c3a1
-WOWOWシネマ,P2p://generationnexxxt.com:19806/e30a2709ee2c492495621bdd54db7294
-スター・チャンネル1,P2p://generationnexxxt.com:19806/8869813c1bfc46b3ba00e21e2cb35474
-スター・チャンネル2,P2p://generationnexxxt.com:19806/0293a4ec77f745f4be8700e6f3d8830f
-スター・チャンネル3,P2p://generationnexxxt.com:19806/0a8db2b6767948c1b4e1e7b86ac4c658
-BSアニマックス,P2p://generationnexxxt.com:19806/242df12175db458eaa4b56885dfe1ee3
-JSports1,P2p://generationnexxxt.com:19806/3bf47ad3b3514230bd24efe7178aee5e
-JSports2,P2p://generationnexxxt.com:19806/1dec0300cce54ba5853fd5aadc349595
-JSports3,P2p://generationnexxxt.com:19806/1a9fd30d67f8480490d1fe07440658b5
-JSports4,P2p://generationnexxxt.com:19806/f7915841f9c04692b3c336849b8ed00c
-GreenChannel,P2p://generationnexxxt.com:19806/9a0e8e3bc32341738cd921467307e93e
-ゴルフネットワークHD,P2p://generationnexxxt.com:19806/df0994ae49fd4d138304ebcd700a9d1c
-時代劇専門チャンネル,P2p://generationnexxxt.com:19806/aaa4c8da4b0f4146a58012b64a9d1c06
-MusicJapanTV,P2p://generationnexxxt.com:19806/7bbfd7a0233d4861943f8488dc21e075
-キッズステーションHD,P2p://generationnexxxt.com:19806/434d7c2079e341609cba49f816c81cf5
-ディスカバリーチャンネル,P2p://generationnexxxt.com:19806/c198ef50712d485d95ebf9c20935cfdb
-ナショナルジオグラフィック,P2p://generationnexxxt.com:19806/415d6f2939a74d34b80a151a959b1733
-日テレNEWS24,P2p://generationnexxxt.com:19806/c7154b60dd934b43a1e42a0fc1b38734
-旅チャンネル,P2p://generationnexxxt.com:19806/bab71e3fb519479ea64543d006b8089f
+国外18+频道(梯子),#genre#
+Brazzers TV(梯子),http://epicboss.live:80/bjune@teksavvy.com/5193594414/19526
+XXX : Erox,http://epicboss.live:80/bjune@teksavvy.com/5193594414/19529
+XXX : Dorcel HD (18 ),http://epicboss.live:80/bjune@teksavvy.com/5193594414/19524
+XXX : Desire,http://epicboss.live:80/bjune@teksavvy.com/5193594414/19523
+XXX : DUSK! (18 ),http://epicboss.live:80/bjune@teksavvy.com/5193594414/19522
+XXX : EuroXXX FHD (18 ),http://epicboss.live:80/bjune@teksavvy.com/5193594414/19520
+XXX : Evil Angel HD (18 ),http://epicboss.live:80/bjune@teksavvy.com/5193594414/19518
+XXX : BANG BROS (18 ),http://epicboss.live:80/bjune@teksavvy.com/5193594414/19508
+XXX : BEALITYKINGS,http://epicboss.live:80/bjune@teksavvy.com/5193594414/19496
+XXX :  Penthouse Gold HD,http://epicboss.live:80/bjune@teksavvy.com/5193594414/19495
+XXX : Private HD (18 ),http://epicboss.live:80/bjune@teksavvy.com/5193594414/19482
+XXX : Reality Kings (18 ),http://epicboss.live:80/bjune@teksavvy.com/5193594414/19480
+XXX : Redlight HD (18 ),http://epicboss.live:80/bjune@teksavvy.com/5193594414/19479
+XXX : BAWWHITEMEAT,http://epicboss.live:80/bjune@teksavvy.com/5193594414/19511
+XXX : ERO XXXHD,http://epicboss.live:80/bjune@teksavvy.com/5193594414/24225
+XXX : Venus TV,http://epicboss.live:80/bjune@teksavvy.com/5193594414/19468
+XXX : CUM 4K,http://epicboss.live:80/bjune@teksavvy.com/5193594414/54181
+XXX : Bangbro Network (18),http://epicboss.live:80/bjune@teksavvy.com/5193594414/54184
+XXX : BangBro 4k,http://epicboss.live:80/bjune@teksavvy.com/5193594414/54230
+XXX : Blacked,http://epicboss.live:80/bjune@teksavvy.com/5193594414/56369
 
-韩国,#genre#
-Arirang,P2p://generationnexxxt.com:19806/853704c2f9a442e7a1532038f14d8d00
-KBS1,P2p://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
-KBS2,P2p://generationnexxxt.com:19806/fa378d3829f643d2a87c4c754bbae507
-KBSDrama,P2p://generationnexxxt.com:19806/10263d570592484e864bf42334ba5a2f
-KBSJoy,P2p://generationnexxxt.com:19806/0a9a842f13284e848e7aa72af382c176
-SBS,P2p://generationnexxxt.com:19806/c8f25b3b0185407792640de06e8781df
-SBSBiz,P2p://generationnexxxt.com:19806/a99ade867d304779a5ac84ab89228575
-JTBC,P2p://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce
-EBS,P2p://generationnexxxt.com:19806/257252e5e0f749beb160af97e36d15d1
-YTN,P2p://generationnexxxt.com:19806/37e575278e574bc9a9fc598c733de125
-Mnet,P2p://generationnexxxt.com:19806/e4f2d41cce0c4f85a2019f13d1bb2aeb
-tvN,P2p://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
-OCN,P2p://generationnexxxt.com:19806/0fae247ef984444d9149e2c20be2c8b3
-OCNMovies,P2p://generationnexxxt.com:19806/328994e1d61946198d921e2fe2bbc1a0
-TVChosun,P2p://generationnexxxt.com:19806/f2bbdada428d45c298a039f3bdf0f12e
-MBC,P2p://generationnexxxt.com:19806/36faab63fc2e4983b559a7e8f2002e30
-MBN,P2p://generationnexxxt.com:19806/09dbf5da37f9450c9bca9c7dabadf2bd
-Tooniverse,P2p://generationnexxxt.com:19806/3c1da427c435451fa526abe4d1c5d446
-SPOTV,P2p://generationnexxxt.com:19806/d270398d5c9d4358a1fab94773d6b8d1
-JTBCGOLF,P2p://generationnexxxt.com:19806/7c397fb18c154c5f91e41a48fd3ab95c
-
-泰国,#genre#
-Channel5,P2p://generationnexxxt.com:19806/68798aed16c6475180d6239acdecd888
-NBT,P2p://generationnexxxt.com:19806/4977f52edbae4d41b28fa28fb4bb8eb7
-TNN16,P2p://generationnexxxt.com:19806/5fa63eddc30543879c96b0a0a08ea60d
-JKN18,P2p://generationnexxxt.com:19806/5fa4254f665e421688ac293bd1dd1d59
-VoiceTV,P2p://generationnexxxt.com:19806/565ee6db091d4f5eb249d8cfd88ff392
-NationTV,P2p://generationnexxxt.com:19806/9006192061234d3abc002c9df98617a3
-WorkpointTV,P2p://generationnexxxt.com:19806/e3dcbf98790f47a6ae10aa0e6b92d3a3
-true4U,P2p://generationnexxxt.com:19806/70d07d9bf1594d1aafa109803f097fd5
-GMM25,P2p://generationnexxxt.com:19806/7202eeef804f4338bcd118210a39a66b
-Channel8,P2p://generationnexxxt.com:19806/3564da7fb0ea488cba5f0179145e0394
-Mono29,P2p://generationnexxxt.com:19806/a8da70ef841f4aa29be21f4123b1e0a6
-MCOT,P2p://generationnexxxt.com:19806/84419b9f1d144bd687913e3739c10011
-ONE,P2p://generationnexxxt.com:19806/bbed53ec33024bafae4696ba4d589e2c
-ThairathTV,P2p://generationnexxxt.com:19806/c1db5ee1e01048bc9f7319cda9a530c6
-Channel3,P2p://generationnexxxt.com:19806/9f2ed619044e4208b64ba52f7a8c0a80
-AmarinTV,P2p://generationnexxxt.com:19806/74f013c77d3b43bf875702f7177dba68
-Channel7,P2p://generationnexxxt.com:19806/377bbd391f744a86a07d3d46e28db730
-PPTV,P2p://generationnexxxt.com:19806/46ff90c62cbb4bdfbccd3033a9268dcb
-ThaiParliamentTV,P2p://generationnexxxt.com:19806/139a4607a0d24095a17ff2745cb2141d
-ThaiPBS,P2p://generationnexxxt.com:19806/aeb8c0b2981e4f0fb69383eea64f5deb
-News1,P2p://generationnexxxt.com:19806/4d7a0f009ed44250b371cf1a3b10c4b3
-Channel4050,P2p://generationnexxxt.com:19806/03f62b6c560745a69e3580aaa3a32294
-TVBThai,P2p://generationnexxxt.com:19806/7cf6f4e9806f4b6389d3a89af43cc256
-Bluesky,P2p://generationnexxxt.com:19806/c6490fe262bd4cf9a6bb3a3b82870495
-TopNews,P2p://generationnexxxt.com:19806/8a46eec67bfa42f6abd4032f91d304bf
-
-北美,#genre#
-CNBC,P2p://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
-BloombergTV,P2p://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
-ESPN,P2p://generationnexxxt.com:19806/2436baa9e481444fa785298d5931bdba
-600TV,P2p://generationnexxxt.com:19806/64c36a1900089f29fd2b824d6b4b65c1
-CBSN,P2p://generationnexxxt.com:19806/697a642115f74499aafe783d34690381
-FoxNews,P2p://generationnexxxt.com:19806/e9305a82b75c42f5901c0594e063e999
-NBA,P2p://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
-新时代1(西部),P2p://generationnexxxt.com:19806/a3d06a9ecf30410582ad64ed15cdf6fd
-新时代2,P2p://generationnexxxt.com:19806/65013e4c0002afeaeeb07d8a59ff6121
-新时代1(东部),P2p://generationnexxxt.com:19806/28d014f7982c4041ab7197218b9c1284
-城市电视,P2p://generationnexxxt.com:19806/a18fbea7eddd4079b3e2e684d19df5c4
-FoxNews,P2p://generationnexxxt.com:19806/6579228d000333673171faee60517ea8
-BBCWorldNews,P2p://generationnexxxt.com:19806/6579228c000c47523171f9583333664f
-CNNUSA,P2p://generationnexxxt.com:19806/6579228c000644123171f7d14c4002bd
-CBCNews,P2p://generationnexxxt.com:19806/6579228b000ea7c13171f60c6a0d21f3
-MSNBC,P2p://generationnexxxt.com:19806/6579228b000782ab3171f43764692427
-CTVNews,P2p://generationnexxxt.com:19806/6579228b0000fa413171f29242d67919
-BusinessNewsNetwork,P2p://generationnexxxt.com:19806/6579228a00091f3e3171f0bd49686fdf
-CP24,P2p://generationnexxxt.com:19806/6579228a000310453171ef2756ac0145
-TheWeatherNetwork,P2p://generationnexxxt.com:19806/65792289000be5843171ed9050240875
-TheWeatherChannel,P2p://generationnexxxt.com:19806/65792289000516983171ebcb68d70d48
-KOMO4TV,P2p://generationnexxxt.com:19806/65791ef700074fd53163fa0823ae64b8
-
-新闻,#genre#
-无线新闻台(备),P2p://147.135.39.171:9906/65a4e8350004c8be46f033cc61584df6
-无线新闻台,P2p://147.135.39.171:9906/659ad8a20009ddcb1fa351025e007328
-无线财经体育资讯台,P2p://generationnexxxt.com:19806/8bcc654c89f74ebdb4e82062ef5f998c
-CGTN,P2p://generationnexxxt.com:19806/a478d869f49148b09b5ad2ddfa73e36b
-BBCWorldNews,P2p://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a
-CNBC,P2p://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
-BloombergTV,P2p://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
-CNA,P2p://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
-壹电视新闻台,P2p://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
-年代新闻,P2p://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
-now新闻台,P2p://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
-东森新闻台,P2p://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
-中天新闻台,P2p://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
-民视新闻台,P2p://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
-三立新闻台,P2p://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
-TVBS新闻台,P2p://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
-东森财经新闻台,P2p://generationnexxxt.com:19806/6596322e000d4091a2f7138e424b32c5
-非凡新闻台,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
-TNN16,P2p://generationnexxxt.com:19806/5fa63eddc30543879c96b0a0a08ea60d
-JKN18,P2p://generationnexxxt.com:19806/5fa4254f665e421688ac293bd1dd1d59
-三立iNEWS,P2p://generationnexxxt.com:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
-SkyNews,P2p://generationnexxxt.com:19806/f023e7189a5541b3a288267608b4836a
-Euronews,P2p://generationnexxxt.com:19806/5b3289dff2154e2c8e166cc3f081f326
-France24,P2p://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694
-600TV,P2p://generationnexxxt.com:19806/64c36a1900089f29fd2b824d6b4b65c1
-非凡商业台,P2p://generationnexxxt.com:19806/0c1ba96949414628ae64fc70c3354e7b
-CBSN,P2p://generationnexxxt.com:19806/697a642115f74499aafe783d34690381
-FoxNews,P2p://generationnexxxt.com:19806/e9305a82b75c42f5901c0594e063e999
-中视新闻台,P2p://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
-寰宇新闻台,P2p://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
-华视新闻,P2p://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
-NHK新闻资讯台,P2p://generationnexxxt.com:19806/c2da55d84a72418c8f1876c25ec97a1d
-NDTV,P2p://generationnexxxt.com:19806/d7fc2d61608d43098f59f35647342c6f
-ABCAustralia,P2p://generationnexxxt.com:19806/65159e6a0003ce6d3e47fc21533740b0
-台视新闻台,P2p://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
-寰宇新闻台湾台,P2p://generationnexxxt.com:19806/ca27b65855704124be186aa0e5127c24
-台视财经台,P2p://generationnexxxt.com:19806/e01d7738e33e456a812f7cefbf27b29a
-CNN,P2p://generationnexxxt.com:19806/cc0fd522ff3f4f37a53773c138dacac1
-now财经台,P2p://generationnexxxt.com:19806/88f95058c046453a973e2540701ccb4e
-东森新闻台(备),P2p://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
-镜新闻,P2p://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
-FoxNews,P2p://generationnexxxt.com:19806/6579228d000333673171faee60517ea8
-BBCWorldNews,P2p://generationnexxxt.com:19806/6579228c000c47523171f9583333664f
-CNNUSA,P2p://generationnexxxt.com:19806/6579228c000644123171f7d14c4002bd
-CBCNews,P2p://generationnexxxt.com:19806/6579228b000ea7c13171f60c6a0d21f3
-MSNBC,P2p://generationnexxxt.com:19806/6579228b000782ab3171f43764692427
-CTVNews,P2p://generationnexxxt.com:19806/6579228b0000fa413171f29242d67919
-BusinessNewsNetwork,P2p://generationnexxxt.com:19806/6579228a00091f3e3171f0bd49686fdf
-CP24,P2p://generationnexxxt.com:19806/6579228a000310453171ef2756ac0145
-TheWeatherNetwork,P2p://generationnexxxt.com:19806/65792289000be5843171ed9050240875
-TheWeatherChannel,P2p://generationnexxxt.com:19806/65792289000516983171ebcb68d70d48
-
-音乐,#genre#
-MusicJapanTV,P2p://generationnexxxt.com:19806/7bbfd7a0233d4861943f8488dc21e075
-MezzoLive,P2p://generationnexxxt.com:19806/1c1e90cd01934a5f917ec4fad5c97665
-CLASSICA古典乐,P2p://generationnexxxt.com:19806/133be9054bcd4fa68d2e34205004a51a
-Channel[V],P2p://generationnexxxt.com:19806/65938874000d6c7c9890150e746d4c5b
-MTV,P2p://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
-
-体育,#genre#
-CCTV5,P2p://generationnexxxt.com:19806/7d00bdeddb6c422796e62ae9e8b9398d
-CCTV5 ,P2p://generationnexxxt.com:19806/65a531aa00057c26dd8d1ccf196a034e
-快乐垂钓,P2p://generationnexxxt.com:19806/65a4f19a000ece67dc92e0b05e060435
-魅力足球,P2p://generationnexxxt.com:19806/ca7a1a18635e453a9a77e5fd5d425e89
-五星体育,P2p://generationnexxxt.com:19806/d75057c993f84e7c86f94e8f1e56ad24
-广东体育,P2p://generationnexxxt.com:19806/bb744a1252da46a6a2ae5546f4da7c72
-SkySportsGolf,P2p://generationnexxxt.com:19806/65791ef9000e6a67316403ad31ad3930
-SkySportsFootball,P2p://generationnexxxt.com:19806/65791ef900094e3c3164026476a47cd3
-AstroArena,P2p://generationnexxxt.com:19806/c046c74b43184a9bac5b0e402944aca5
-AstroSuperSport,P2p://generationnexxxt.com:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
-AstroSuperSport2,P2p://generationnexxxt.com:19806/650d4fca00064e791dd4dbcd16fd08c0
-AstroSuperSport3,P2p://generationnexxxt.com:19806/5b9b9986c20244908be60c3f18a3e435
-AstroSuperSport4,P2p://generationnexxxt.com:19806/c7f1be20958243f68c943016c446501e
-beINSports3,P2p://generationnexxxt.com:19806/65a52dc1000d76fbdd7dd8ab186b4afd
-WWE,P2p://generationnexxxt.com:19806/32e0838eeab84b3a96297dcceca27f5a
-纬来育乐台,P2p://generationnexxxt.com:19806/78b57c4d9e644fafafe01588c43b4787
-纬来体育台,P2p://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a
-ELEVEN体育1台,P2p://generationnexxxt.com:19806/fcfde35352d5464f9ed1c711ef2d05b1
-Z频道,P2p://generationnexxxt.com:19806/8789d946039740bda334150ac3138166
-JSports1,P2p://generationnexxxt.com:19806/3bf47ad3b3514230bd24efe7178aee5e
-JSports2,P2p://generationnexxxt.com:19806/1dec0300cce54ba5853fd5aadc349595
-JSports3,P2p://generationnexxxt.com:19806/1a9fd30d67f8480490d1fe07440658b5
-JSports4,P2p://generationnexxxt.com:19806/f7915841f9c04692b3c336849b8ed00c
-SkynetSportsHD,P2p://generationnexxxt.com:19806/64f03b7d000cf732ac3d879228791c70
-SkynetSports2,P2p://generationnexxxt.com:19806/64f03b7e0004ca5cac3d89676c3c51df
-SkynetSports5,P2p://generationnexxxt.com:19806/64f03b7f0003688dac3d8cf1521c6e9f
-SkynetSports6,P2p://generationnexxxt.com:19806/64f03b7e000b23c7ac3d8b0d775b55a1
-FightSports,P2p://generationnexxxt.com:19806/7375a5f151c047b294a8e8c6ddad178d
-ESPN,P2p://generationnexxxt.com:19806/2436baa9e481444fa785298d5931bdba
-HKC18,P2p://generationnexxxt.com:19806/140377dc9e0848678d614d451d69af9e
-爱尔达体育1台(备),P2p://generationnexxxt.com:19806/1180278580d04cb490450ec59b4edc6b
-爱尔达体育2台,P2p://generationnexxxt.com:19806/d1f16ee235314a0fbc33742ab7af534b
-TRACESportStars,P2p://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a07035
-博斯高球,P2p://generationnexxxt.com:19806/6ff0b79453d2430986930b7c84a286df
-博斯高球二台,P2p://generationnexxxt.com:19806/8afa52d0fe0047f8a6d7e51f46697f93
-博斯网球台,P2p://generationnexxxt.com:19806/7fb5b66ce38747de84be865952153959
-博斯魅力网,P2p://generationnexxxt.com:19806/c585ebfbfc7c4260a8d9556b5409faf0
-博斯无限台,P2p://generationnexxxt.com:19806/f2973cfa7c2045e6b8a184f1bf18af7c
-博斯无限二台,P2p://generationnexxxt.com:19806/143f1c23ac834d28a5296d61fed9250c
-SPOTV,P2p://generationnexxxt.com:19806/60ad67b765414b32882a24ce6c63808a
-博斯运动,P2p://generationnexxxt.com:19806/6293839c167e4b6393c745db434b2465
-ELEVEN体育2台,P2p://generationnexxxt.com:19806/057061c0da744aa7b035169dba5ebe2a
-智林体育台,P2p://generationnexxxt.com:19806/931c171e2f774f7aa1a92e97f5098c9f
-博斯运动二台,P2p://generationnexxxt.com:19806/cbd52c51fbab49ae9b3bc0da9137f681
-beINSports,P2p://generationnexxxt.com:19806/eefa5931a750470d8a3267932e36c644
-TechStorm,P2p://generationnexxxt.com:19806/994876c6aadc4234ba73441f18d36602
-EurosportHD,P2p://generationnexxxt.com:19806/65159769000b9a153e2ca23c14c042d2
-ArenaBola,P2p://generationnexxxt.com:19806/6597c3de0009a0efa91838f96fd623b1
-NBA,P2p://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
-beINSports2,P2p://generationnexxxt.com:19806/65619d35000372e967236fc35ab64b39
-爱尔达体育1台,P2p://generationnexxxt.com:19806/68e521d35c0247ddbc5073dee98245a3
-爱尔达体育3台,P2p://generationnexxxt.com:19806/3ebc6b89559c44dca30c4c259a5646b9
-爱尔达体育4台,P2p://generationnexxxt.com:19806/df4f198dbe6347e1a084c79d208f227d
-SkySportsF1,P2p://generationnexxxt.com:19806/65791ef90003eb94316400fd79094faa
-SkySportsArena,P2p://generationnexxxt.com:19806/65791ef8000e15953163ffb52b633954
-SkySportsMainEvent,P2p://generationnexxxt.com:19806/65791ef800079cd23163fe0f44d92213
-SkySportsCricket,P2p://generationnexxxt.com:19806/65791ef8000290523163fcb71a5c79e1
-SkySportsMix,P2p://generationnexxxt.com:19806/65791ef7000cb6683163fb6f54195e6f
-GolfChannel,P2p://generationnexxxt.com:19806/65619e930003f0fc6728c71226a25f2d
-
-知识,#genre#
-CCTV9,P2p://generationnexxxt.com:19806/65a52e1d0007b3b6dd7f3e945c727248
-探索频道,P2p://generationnexxxt.com:19806/9f2e92df32b34a569ad7e6818f4732fb
-TLC旅游生活,P2p://generationnexxxt.com:19806/621ca70412034f5eb919c1ec03679804
-动物星球,P2p://generationnexxxt.com:19806/5b41e724ea8e4e7eb92e3dac95589165
-ELTV生活英语台,P2p://generationnexxxt.com:19806/78c0f08e89a844ef89d6803bce27a827
-BBCEarth,P2p://generationnexxxt.com:19806/49261fefe28441bea7b775cc44fa16b5
-DiscoveryAsia,P2p://generationnexxxt.com:19806/0afefbe6244c42dbac40a3d8abef8d07
-Discovery科学频道,P2p://generationnexxxt.com:19806/39e1494bd82c449892c6f92a6c8dc213
-DMAX,P2p://generationnexxxt.com:19806/50af7fb4500840e292bcfae4dd50e97f
-EVE,P2p://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a
-历史频道,P2p://generationnexxxt.com:19806/e6f506b509c94bacb4a371cdbcbe7719
-罪案侦缉频道,P2p://generationnexxxt.com:19806/ef7b4ee3be374092a4a0074a6be41e03
-BBCLifestyle,P2p://generationnexxxt.com:19806/178e533979bb4ec3af9190ca475f23ef
-Lifetime,P2p://generationnexxxt.com:19806/112b06172cdf41cbb6990e64d30cab0c
-KLT-靖天国际台,P2p://generationnexxxt.com:19806/12d39bada24843588ad72a3175b785a2
-HGTV居家乐活频道,P2p://generationnexxxt.com:19806/84613e96237545769558cc572e6d1ab0
-LoveNature,P2p://generationnexxxt.com:19806/574be1e2e0054216abe436413ea4221a
-美食星球,P2p://generationnexxxt.com:19806/1baaeb6967434fee9bf4412904e573b0
-亚洲美食频道,P2p://generationnexxxt.com:19806/5b787bd078c84a3caa09c3665c66dc50
-亚洲旅游台,P2p://generationnexxxt.com:19806/259c24cb79ce4b5db1fb1e1b894c517e
-EYETV旅游台,P2p://generationnexxxt.com:19806/2d426994acef44deb401aa8a4cd5a92e
-
-儿少,#genre#
-CCTV14,P2p://generationnexxxt.com:19806/65a52dc1000332e5dd7dd60b29277892
-CN卡通频道,P2p://generationnexxxt.com:19806/f4dd909eedc64e6b9736e248aedf6d61
-MOMO亲子台,P2p://generationnexxxt.com:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
-Astro小太阳,P2p://generationnexxxt.com:19806/b9014d57594d4cfdb87848d4b2610506
-AstroCeria,P2p://generationnexxxt.com:19806/65a60c7700089e76e0e3d6806c8b1e66
-Boomerang,P2p://generationnexxxt.com:19806/65619d3500003c6967236ef726ef1633
-Animax,P2p://generationnexxxt.com:19806/22f75ace87a545aab39a2e4cd244bbad
-尼克儿童频道,P2p://generationnexxxt.com:19806/879f28be19bc47df84ad3d5470be58d0
-靖洋卡通NiceBingo,P2p://generationnexxxt.com:19806/1279fb2d1ae14676a31b2e5b38a2cd57
-靖天卡通台,P2p://generationnexxxt.com:19806/0e27e5f319264b609ec810e126edf969
-NickJr.,P2p://generationnexxxt.com:19806/acebbded37714fa4a5554c025873a92c
-达文西频道,P2p://generationnexxxt.com:19806/65939a080006919098d4bd6914a733d2
-HandsUp,P2p://generationnexxxt.com:19806/7a79a82b627a417f897895b4adf874aa
-
-电影,#genre#
-CCTV6,P2p://generationnexxxt.com:19806/3ec70c48b2024e4f9210169aec2914c7
-天映频道,P2p://generationnexxxt.com:19806/f7581adcfa1e4eaa88b4d1206f3abe61
-天映经典,P2p://generationnexxxt.com:19806/3ac31fa9f30145b68f8469b00d91b200
-tvNMoviesHD,P2p://generationnexxxt.com:19806/c6e40b3dec3344909fc0ca9378a7f4c7
-私人影院,P2p://generationnexxxt.com:19806/3cfadd5e9af14d6db652b3c23acd7a7d
-东森电影台,P2p://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
-纬来电影台,P2p://generationnexxxt.com:19806/429796f5f00946fa933e400729286c7e
-龙祥电影,P2p://generationnexxxt.com:19806/78502c9b515845a7baca6a3a6ea88b8a
-HBO,P2p://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
-东森洋片台,P2p://generationnexxxt.com:19806/5e8420f5477344b9b7b39d9e96162ce1
-AXN,P2p://generationnexxxt.com:19806/893f7dec641a42458f47ccfbd93525ba
-好莱坞电影台,P2p://generationnexxxt.com:19806/9862f4958472458ca2ebc718bb92a5c6
-CINEMAX,P2p://generationnexxxt.com:19806/fd7fd316ff5f4ae0a79d274a86483a4f
-纬来育乐台,P2p://generationnexxxt.com:19806/78b57c4d9e644fafafe01588c43b4787
-HBO强档巨献,P2p://generationnexxxt.com:19806/563a5981b8ad4df085b59ce98bbecb95
-HBO原创巨献,P2p://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
-美亚电影台HD,P2p://generationnexxxt.com:19806/a850e570b868424c94319a2652ca7c62
-龙华电影,P2p://generationnexxxt.com:19806/1df6f5f0993a46faa17f676518654709
-Smart知识台,P2p://generationnexxxt.com:19806/65939c760002de7398de3a2e3f1b051b
-靖天映画,P2p://generationnexxxt.com:19806/b723859f3ed94e5ba712148b209eefd0
-靖天电影台,P2p://generationnexxxt.com:19806/d8c581e0e1a24823a3d2110e3584ef8b
-WARNERTV,P2p://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec
-AMC最爱电影,P2p://generationnexxxt.com:19806/24ce0147e36a438eab843a3168cea3bc
-HBOFamily,P2p://generationnexxxt.com:19806/8a0208ebdfa04b5eab112f0c8b01719c
-CatchPlay电影台,P2p://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
-CinemaWorld,P2p://generationnexxxt.com:19806/e262f40881b2461f9a270b4d9d0b54c3
-壹电视电影台,P2p://generationnexxxt.com:19806/1be1329b6d124745a87a16de445d2352
-采昌影剧台,P2p://generationnexxxt.com:19806/a0d691053f9b4876ab2b509a62296911
-BOO,P2p://generationnexxxt.com:19806/72791d5b2d0847bdbd28aaee41af5537
-Thrill,P2p://generationnexxxt.com:19806/1c3c73215afd42558101c3ee65737202
-HITSMovies,P2p://generationnexxxt.com:19806/72b44f288c8c4c5baa031ec11d9e0e35
-影迷数位电影台,P2p://generationnexxxt.com:19806/bc069c037478448a9e41dbc3e1d5d0f6
-美亚电影台(粤语),P2p://generationnexxxt.com:19806/ee16565eb5fe46be8d22cbbde1fa9fae
-CHC动作电影,P2p://generationnexxxt.com:19806/1b4ebad47ed94c6291646a4a5d1ff3b6
-CHC高清电影,P2p://generationnexxxt.com:19806/02385419696a411db959037c2190cf11
-CHC家庭影院,P2p://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21cf
-
-戏剧,#genre#
-东森戏剧台,P2p://generationnexxxt.com:19806/4fae332a68a04f3fa77a158ac1fa4bce
-八大戏剧台,P2p://generationnexxxt.com:19806/4eec82bd1e634ceab82b90e395116c83
-纬来戏剧台,P2p://generationnexxxt.com:19806/69036778f8fc40729301e9e88aeee556
-三立戏剧台,P2p://generationnexxxt.com:19806/7a5b874b630d457bb5997a2fe4690550
-龙华戏剧,P2p://generationnexxxt.com:19806/5d4f0bd2b18b4a588a0ca733569b18dd
-靖天戏剧台,P2p://generationnexxxt.com:19806/1282202787324223b35e3c84d9e673c6
-靖洋戏剧台,P2p://generationnexxxt.com:19806/84a559f1b4884854be933d5d4fc0d4a6
-EYETV戏剧台,P2p://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f89
-爱尔达影剧台,P2p://generationnexxxt.com:19806/932d4522f2294c6a926b7ab8027c269f
-亚洲剧台,P2p://generationnexxxt.com:19806/ee081a662356489d8b2170952ec91d24
-
-SP_0204,#genre#
-彩虹e台,P2p://generationnexxxt.com:19806/65965911000021e1a38ef6eb6d960419
-彩虹电影台,P2p://generationnexxxt.com:19806/659659670009e1e0a390495b56fe0ef5
-LOOK TV,P2p://generationnexxxt.com:19806/65965b99000447ada398db445ba341d9
-潘朵啦玩美台,P2p://generationnexxxt.com:19806/b18b7d6f932a44b68dadb6bc37a5df28
-惊艳成人电影台,P2p://generationnexxxt.com:19806/9f2fedfddd1c44159afc05fbc6d19111
-香蕉台,P2p://generationnexxxt.com:19806/c56271abc82643f7b8a2a5184f56b80d
-松视1台,P2p://generationnexxxt.com:19806/65965a69000205b2a39437282edd171f
-松视2台,P2p://generationnexxxt.com:19806/65965a69000aa6b2a394396a278d2960
-松视3台,P2p://generationnexxxt.com:19806/65965a6a000397c7a3943b7d68302409
-HAPPY,P2p://generationnexxxt.com:19806/659660790009efada3abe7bb6374465e
-JStar极限台,P2p://generationnexxxt.com:19806/65965afc0003ca30a39675dd41a40275
-K,P2p://generationnexxxt.com:19806/659660d600094f04a3ad52d46ed26cbc
-PLAYBOY,P2p://generationnexxxt.com:19806/a1bdd4044b1241498c615ee02ab4e868
-
-测试,#genre#
-凤凰资讯,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
-凤凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192
-凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
-凤凰香港,http://103.95.24.37:880/fhxgt.m3u8
-凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
-凤凰香港,https://epg.pw/stream/e04b14233c7014451fd340e1c5d0cc6a7a47937fa22d135f61caa76777602bad.m3u8
-凤凰中文,https://epg.pw/stream/91dffd2dca60b65821a94747f2f3020dfc9642bb89f86ed7fa6d8b0b7487c5d2.m3u8
-凤凰资讯,https://epg.pw/stream/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
-明珠台,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnc5YlFBUEtiNllQZ0hPUTlwd2tNcjY0bnB4YVhhUWtYS3ZvU045b2l0MG8xcTR1OTJYSXpWK2RWeTVSK0NoWmU0NUkxWXBvNW9qM3BFWmJ1c0gvVFpBN1R2QjhVcWpsaXJQZHV2Sk0ycDcrY1BweEpyRDBicW8=/+d3Xw95ENdIUPRHcoYuQ6Q==/txt/2
-凤凰资讯,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnpyc1Bwd0NJS0QwN29UR2FQbjdlUzV6bFRGTnpSa0pxUktiZlZpalE0QVIxTTZwMW1BVkhrcHE3dVh3VlNCVWhlcFBXM3EybEhnY0FoY25QWkxQNXNTdXpPTmRKb3krejg9/+d3Xw95ENdIUPRHcoYuQ6Q==/txt/2
-凤凰中文,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnpyc1Bwd0NJS0QwN29UR2FQbjdlUzV6bFRGTnpSa0pxUktiZlZpalE0QVIxTTZwMW1BVkhrcHE3dVh3VlNCVWhlcFBXM3EybEhnY09uM3ZrZHhsa00xRkpjRmNGNGo1OUU9/+d3Xw95ENdIUPRHcoYuQ6Q==/txt/2
-凤凰中文,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰中文,http://php.jdshipin.com:8880/jydx.php?id=37
-凤凰资讯,http://php.jdshipin.com:8880/jydx.php?id=36
-明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
-TVB体育资讯台http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
-TVB无线新闻台,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
-TVB翡翠台,http://58.176.4.57:8800/play/a00g
-TVB J2,http://58.176.4.57:8800/play/a00c
-TVB新闻台,http://58.176.4.57:8800/play/a00d
-TVB明珠台,http://58.176.4.57:8800/play/a00b
-TVB星河台https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
-无线新闻http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
-无线娱乐新闻台https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
-无线新闻,http://36.108.172.237:10002/stream/channelid/864637417
-无线新闻,http://137.175.30.127:9080/hls/inews.m3u8
-无线新闻,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
-ViuTVsix,http://grandprix2023.asuscomm.com:8889/bysid/96
-ViuTV,http://grandprix2023.asuscomm.com:8889/bysid/99
-明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2
-TVB+,http://grandprix2023.asuscomm.com:8892/bysid/82
-无线新闻台,http://grandprix2023.asuscomm.com:8892/bysid/83
-凤凰香港,http://grandprix2023.asuscomm.com:8892/bysid/85
-TVB本港台,http://113.64.145.195:8081/hls/135/index.m3u8
-TVB功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-TVB J2台,http://nz189l149.bb27109.ctm.net:8892/bysid/82
-TVB无线新闻,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
-TVB翡翠台,http://58.87.99.251:8090/GN/gdfc2/hls.m3u8
-TVB星河台,http://113.64.145.195:8081/hls/135/index.m3u8
-TVB翡翠台,http://158.180.67.130/live/hls/J/j.m3u8
-TVB翡翠台 4K,http://158.180.67.130/live/hls/JUHD/juhd.m3u8
-TVB翡翠台 4K,http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
-TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-TVB星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/playlist.m3u8
-TVB星河台,http://113.64.145.195:8081/hls/135/index.m3u8
-TVB功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-TVB无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83
-TVB娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-TVB娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
-TVB J1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-无线新闻台,https://tv.iill.top/tvb/2
-有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
-有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
-香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-TVB亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-TVB娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
-TVB J1台,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
-香港34台全网,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-港台RTHK33HD,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-港台RTHK34HD,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-澳亚卫视,http://live.mastvnet.com:800/4rlff1m/live.m3u8
-澳亚卫视,http://live.mastvnet.com:800/4rlff1m/1024/live.m3u8
-澳亚卫视,http://live.mastvnet.com:800/4rlff1m/a/live.m3u8
-澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
-澳门葡语,http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
-澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
-澳门信息,http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8
-澳门有线 CH1,http://202.175.127.77/live/show/ch1/index.m3u8
-澳门有线 CH3,http://202.175.127.77/live/show/ch3/index.m3u8
-澳门有线新闻,http://202.175.127.77/live/show/ch2/index.m3u8
-澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
-澳视澳门,http://61.244.22.5/ch1/ch1.live/index.m3u8
-澳视葡语,http://61.244.22.5/ch2/ch2.live/index.m3u8
-澳视体育,http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
-澳视资讯,http://61.244.22.5/ch5/info_ch5.live/index.m3u8
-澳视综艺,http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
-东森财经,rtmp://f13h.mine.nu/sat/tv571
-
-
-CCTV1,http://113.89.246.222:4200/rtp/239.77.0.14:5146
-CCTV1,http://113.89.246.222:4200/rtp/239.77.0.30:5146
-CCTV1,http://113.89.246.222:4200/rtp/239.77.0.86:5146
-CCTV1,http://113.89.246.222:4200/rtp/239.77.0.119:5146
-CCTV1,http://113.89.246.222:4200/rtp/239.77.1.17:5146
-CCTV1,http://113.89.246.222:4200/rtp/239.77.1.144:5146
-CCTV1,http://113.89.246.222:4200/rtp/239.77.0.129:5146
-CCTV2,http://113.89.246.222:4200/rtp/239.77.0.137:5146
-CCTV2,http://113.89.246.222:4200/rtp/239.77.1.158:5146
-CCTV3,http://113.89.246.222:4200/rtp/239.77.0.32:5146
-CCTV3,http://113.89.246.222:4200/rtp/239.77.0.169:5146
-CCTV3,http://113.89.246.222:4200/rtp/239.77.1.7:5146
-CCTV4,http://113.89.246.222:4200/rtp/239.77.0.33:5146
-CCTV4,http://113.89.246.222:4200/rtp/239.77.0.78:5146
-CCTV4,http://113.89.246.222:4200/rtp/239.77.1.163:5146
-CCTV4,http://113.89.246.222:4200/rtp/239.77.1.166:5146
-CCTV4欧洲,http://113.89.246.222:4200/rtp/239.253.43.120:5146
-CCTV4美洲,http://113.89.246.222:4200/rtp/239.253.43.121:5146
-CCTV5,http://113.89.246.222:4200/rtp/239.77.0.170:5146
-CCTV5,http://113.89.246.222:4200/rtp/239.77.1.8:5146
-CCTV5,http://113.89.246.222:4200/rtp/239.77.0.34:5146
-CCTV5+,http://113.89.246.222:4200/rtp/239.77.0.87:5146
-CCTV5+,http://113.89.246.222:4200/rtp/239.77.1.31:5146
-CCTV6,http://113.89.246.222:4200/rtp/239.77.0.35:5146
-CCTV6,http://113.89.246.222:4200/rtp/239.77.0.171:5146
-CCTV6,http://113.89.246.222:4200/rtp/239.77.1.9:5146
-CCTV7,http://113.89.246.222:4200/rtp/239.77.0.36:5146
-CCTV7,http://113.89.246.222:4200/rtp/239.77.0.138:5146
-CCTV7,http://113.89.246.222:4200/rtp/239.77.1.159:5146
-CCTV8,http://113.89.246.222:4200/rtp/239.77.0.37:5146
-CCTV8,http://113.89.246.222:4200/rtp/239.77.0.172:5146
-CCTV8,http://113.89.246.222:4200/rtp/239.77.1.10:5146
-CCTV9,http://113.89.246.222:4200/rtp/239.77.0.38:5146
-CCTV9,http://113.89.246.222:4200/rtp/239.77.0.135:5146
-CCTV9,http://113.89.246.222:4200/rtp/239.77.1.160:5146
-CCTV10,http://113.89.246.222:4200/rtp/239.77.0.39:5146
-CCTV10,http://113.89.246.222:4200/rtp/239.77.0.134:5146
-CCTV10,http://113.89.246.222:4200/rtp/239.77.1.113:5146
-CCTV11,http://113.89.246.222:4200/rtp/239.77.0.40:5146
-CCTV11,http://113.89.246.222:4200/rtp/239.77.1.108:5146
-CCTV11,http://113.89.246.222:4200/rtp/239.77.1.238:5146
-CCTV12,http://113.89.246.222:4200/rtp/239.77.0.41:5146
-CCTV12,http://113.89.246.222:4200/rtp/239.77.0.136:5146
-CCTV12,http://113.89.246.222:4200/rtp/239.77.1.109:5146
-CCTV13,http://113.89.246.222:4200/rtp/239.77.0.42:5146
-CCTV13,http://113.89.246.222:4200/rtp/239.77.0.188:5146
-CCTV13,http://113.89.246.222:4200/rtp/239.253.43.196:5146
-CCTV14,http://113.89.246.222:4200/rtp/239.77.0.43:5146
-CCTV14,http://113.89.246.222:4200/rtp/239.77.0.133:5146
-CCTV14,http://113.89.246.222:4200/rtp/239.77.1.161:5146
-CCTV15,http://113.89.246.222:4200/rtp/239.77.1.120:5146
-CCTV15,http://113.89.246.222:4200/rtp/239.77.1.239:5146
-CCTV15,http://113.89.246.222:4200/rtp/239.77.0.44:5146
-CCTV17,http://113.89.246.222:4200/rtp/239.77.0.115:5146
-CCTV17,http://113.89.246.222:4200/rtp/239.77.0.198:5146
-CCTV17,http://113.89.246.222:4200/rtp/239.77.1.121:5146
-CCTV4K,http://113.89.246.222:4200/rtp/239.77.0.194:5146
-CCTV4K,http://113.89.246.222:4200/rtp/239.77.1.180:5146
-CETV1,http://113.89.246.222:4200/rtp/239.77.0.200:5146
-CETV1,http://113.89.246.222:4200/rtp/239.77.1.222:5146
-CETV2,http://113.89.246.222:4200/rtp/239.77.0.28:5146
-CETV2,http://113.89.246.222:4200/rtp/239.77.1.69:5146
-CETV4,http://113.89.246.222:4200/rtp/239.253.43.40:5146
-CETV4,http://113.89.246.222:4200/rtp/239.253.43.114:5146
-CETV早期教育,http://113.89.246.222:4200/rtp/239.77.0.180:5146
-CETV早期教育,http://113.89.246.222:4200/rtp/239.77.1.114:5146
-CETV早期教育,http://113.89.246.222:4200/rtp/239.77.1.122:5146
-CGTN,http://113.89.246.222:4200/rtp/239.77.0.45:5146
-CGTN,http://113.89.246.222:4200/rtp/239.77.1.27:5146
-CGTN,http://113.89.246.222:4200/rtp/239.77.0.199:5146
-CGTN纪录,http://113.89.246.222:4200/rtp/239.253.43.122:5146
-CGTN阿语,http://113.89.246.222:4200/rtp/239.253.43.200:5146
-CGTN俄语,http://113.89.246.222:4200/rtp/239.253.43.201:5146
-CGTN西语,http://113.89.246.222:4200/rtp/239.77.0.221:5146
-CGTN法语,http://113.89.246.222:4200/rtp/239.77.0.228:5146
-第一剧场,http://113.89.246.222:4200/rtp/239.253.43.15:5146
-第一剧场,http://113.89.246.222:4200/rtp/239.253.43.28:5146
-风云剧场,http://113.89.246.222:4200/rtp/239.253.43.16:5146
-风云剧场,http://113.89.246.222:4200/rtp/239.253.43.26:5146
-风云足球,http://113.89.246.222:4200/rtp/239.253.43.14:5146
-风云足球,http://113.89.246.222:4200/rtp/239.253.43.20:5146
-风云音乐,http://113.89.246.222:4200/rtp/239.253.43.6:5146
-风云音乐,http://113.89.246.222:4200/rtp/239.253.43.29:5146
-世界地理,http://113.89.246.222:4200/rtp/239.253.43.7:5146
-世界地理,http://113.89.246.222:4200/rtp/239.253.43.24:5146
-电视指南,http://113.89.246.222:4200/rtp/239.253.43.10:5146
-电视指南,http://113.89.246.222:4200/rtp/239.253.43.19:5146
-怀旧剧场,http://113.89.246.222:4200/rtp/239.253.43.5:5146
-怀旧剧场,http://113.89.246.222:4200/rtp/239.253.43.25:5146
-兵器科技,http://113.89.246.222:4200/rtp/239.253.43.9:5146
-兵器科技,http://113.89.246.222:4200/rtp/239.253.43.18:5146
-女性时尚,http://113.89.246.222:4200/rtp/239.253.43.8:5146
-女性时尚,http://113.89.246.222:4200/rtp/239.253.43.23:5146
-高尔夫网球,http://113.89.246.222:4200/rtp/239.253.43.12:5146
-高尔夫网球,http://113.89.246.222:4200/rtp/239.253.43.22:5146
-央视台球,http://113.89.246.222:4200/rtp/239.253.43.11:5146
-央视台球,http://113.89.246.222:4200/rtp/239.253.43.21:5146
-央视文化精品,http://113.89.246.222:4200/rtp/239.253.43.13:5146
-央视文化精品,http://113.89.246.222:4200/rtp/239.253.43.27:5146
-天元围棋,http://113.89.246.222:4200/rtp/239.253.43.98:5146
-中学生,http://113.89.246.222:4200/rtp/239.77.1.195:5146
-卫生健康,http://113.89.246.222:4200/rtp/239.77.0.212:5146
-茶频道,http://113.89.246.222:4200/rtp/239.77.0.15:5146
-书法频道,http://113.89.246.222:4200/rtp/239.77.1.115:5146
-金鹰纪实,http://113.89.246.222:4200/rtp/239.77.0.160:5146
-金鹰纪实,http://113.89.246.222:4200/rtp/239.77.1.217:5146
-发现之旅,http://113.89.246.222:4200/rtp/239.77.1.112:5146
-发现之旅,http://113.89.246.222:4200/rtp/239.253.43.127:5146
-环球奇观,http://113.89.246.222:4200/rtp/239.77.1.198:5146
-环球奇观,http://113.89.246.222:4200/rtp/239.253.43.126:5146
-国学频道,http://113.89.246.222:4200/rtp/239.77.0.226:5146
-国学频道,http://113.89.246.222:4200/rtp/239.77.1.105:5146
-无信号,http://113.89.246.222:4200/rtp/239.77.0.236:5146
-无信号,http://113.89.246.222:4200/rtp/239.77.1.139:5146
-无信号,http://113.89.246.222:4200/rtp/239.253.43.165:5146
-老故事,http://113.89.246.222:4200/rtp/239.77.0.220:5146
-老故事,http://113.89.246.222:4200/rtp/239.77.1.197:5146
-快乐垂钓,http://113.89.246.222:4200/rtp/239.77.0.145:5146
-中国天气,http://113.89.246.222:4200/rtp/239.77.1.2:5146
-CCTV4K,http://113.89.246.222:4200/rtp/239.77.0.194:5146
-CCTV4K,http://113.89.246.222:4200/rtp/239.77.1.180:5146
-CCTV16 4K,http://113.89.246.222:4200/rtp/239.77.0.165:5146
-北京卫视4K,http://113.89.246.222:4200/rtp/239.77.0.2:5146
-北京卫视4K,http://113.89.246.222:4200/rtp/239.77.0.3:5146
-北京卫视4K,http://113.89.246.222:4200/rtp/239.77.0.153:5146
-北京卫视4K,http://113.89.246.222:4200/rtp/239.77.0.233:5146
-北京卫视4K,http://113.89.246.222:4200/rtp/239.77.1.13:5146
-东方卫视4K,http://113.89.246.222:4200/rtp/239.77.0.59:5146
-广东卫视4K,http://113.89.246.222:4200/rtp/239.77.0.27:5146
-广东卫视4K,http://113.89.246.222:4200/rtp/239.77.0.65:5146
-广东卫视4K,http://113.89.246.222:4200/rtp/239.77.0.66:5146
-深圳卫视4K,http://113.89.246.222:4200/rtp/239.77.0.67:5146
-深圳卫视4K,http://113.89.246.222:4200/rtp/239.77.1.14:5146
-湖南卫视4K,http://113.89.246.222:4200/rtp/239.77.0.56:5146
-山东卫视4K,http://113.89.246.222:4200/rtp/239.77.0.61:5146
-四川卫视4K,http://113.89.246.222:4200/rtp/239.77.0.60:5146
-浙江卫视4K,http://113.89.246.222:4200/rtp/239.77.0.58:5146
-江苏卫视4K,http://113.89.246.222:4200/rtp/239.77.0.57:5146
-广东综艺4K,http://113.89.246.222:4200/rtp/239.77.0.244:5146
-广东综艺4K,http://113.89.246.222:4200/rtp/239.77.0.245:5146
-广东综艺4K,http://113.89.246.222:4200/rtp/239.77.1.237:5146
-南国都市4K,http://113.89.246.222:4200/rtp/239.253.43.99:5146
-重庆卫视,http://113.89.246.222:4200/rtp/239.77.0.182:5146
-重庆卫视,http://113.89.246.222:4200/rtp/239.77.1.162:5146
-江苏卫视,http://113.89.246.222:4200/rtp/239.77.0.90:5146
-江苏卫视,http://113.89.246.222:4200/rtp/239.77.1.18:5146
-浙江卫视,http://113.89.246.222:4200/rtp/239.77.0.89:5146
-浙江卫视,http://113.89.246.222:4200/rtp/239.77.1.33:5146
-东方卫视,http://113.89.246.222:4200/rtp/239.77.0.98:5146
-东方卫视,http://113.89.246.222:4200/rtp/239.77.1.218:5146
-深圳卫视,http://113.89.246.222:4200/rtp/239.77.0.92:5146
-深圳卫视,http://113.89.246.222:4200/rtp/239.77.0.130:5146
-深圳卫视,http://113.89.246.222:4200/rtp/239.77.1.3:5146
-深圳卫视,http://113.89.246.222:4200/rtp/239.77.1.107:5146
-深圳卫视,http://113.89.246.222:4200/rtp/239.77.1.148:5146
-北京卫视,http://113.89.246.222:4200/rtp/239.77.0.91:5146
-北京卫视,http://113.89.246.222:4200/rtp/239.77.0.232:5146
-北京卫视,http://113.89.246.222:4200/rtp/239.77.1.4:5146
-北京卫视,http://113.89.246.222:4200/rtp/239.77.1.151:5146
-山东卫视,http://113.89.246.222:4200/rtp/239.77.0.94:5146
-山东卫视,http://113.89.246.222:4200/rtp/239.77.1.142:5146
-天津卫视,http://113.89.246.222:4200/rtp/239.77.0.97:5146
-天津卫视,http://113.89.246.222:4200/rtp/239.77.0.131:5146
-天津卫视,http://113.89.246.222:4200/rtp/239.77.1.141:5146
-天津卫视,http://113.89.246.222:4200/rtp/239.77.1.182:5146
-贵州卫视,http://113.89.246.222:4200/rtp/239.77.0.230:5146
-贵州卫视,http://113.89.246.222:4200/rtp/239.77.1.221:5146
-四川卫视,http://113.89.246.222:4200/rtp/239.77.0.159:5146
-四川卫视,http://113.89.246.222:4200/rtp/239.77.1.215:5146
-云南卫视,http://113.89.246.222:4200/rtp/239.253.43.37:5146
-云南卫视,http://113.89.246.222:4200/rtp/239.253.43.100:5146
-广西卫视,http://113.89.246.222:4200/rtp/239.77.0.139:5146
-广西卫视,http://113.89.246.222:4200/rtp/239.253.43.36:5146
-黑龙江卫视,http://113.89.246.222:4200/rtp/239.77.0.93:5146
-黑龙江卫视,http://113.89.246.222:4200/rtp/239.77.0.124:5146
-黑龙江卫视,http://113.89.246.222:4200/rtp/239.77.1.6:5146
-黑龙江卫视,http://113.89.246.222:4200/rtp/239.77.1.179:5146
-安徽卫视,http://113.89.246.222:4200/rtp/239.77.0.183:5146
-安徽卫视,http://113.89.246.222:4200/rtp/239.77.1.92:5146
-山西卫视,http://113.89.246.222:4200/rtp/239.77.0.69:5146
-山西卫视,http://113.89.246.222:4200/rtp/239.77.1.74:5146
-江西卫视,http://113.89.246.222:4200/rtp/239.77.0.149:5146
-江西卫视,http://113.89.246.222:4200/rtp/239.77.1.219:5146
-湖北卫视,http://113.89.246.222:4200/rtp/239.77.0.95:5146
-湖北卫视,http://113.89.246.222:4200/rtp/239.77.0.128:5146
-湖北卫视,http://113.89.246.222:4200/rtp/239.77.1.93:5146
-湖北卫视,http://113.89.246.222:4200/rtp/239.77.1.174:5146
-陕西卫视,http://113.89.246.222:4200/rtp/239.77.0.68:5146
-陕西卫视,http://113.89.246.222:4200/rtp/239.77.1.54:5146
-东南卫视,http://113.89.246.222:4200/rtp/239.77.0.146:5146
-东南卫视,http://113.89.246.222:4200/rtp/239.77.1.104:5146
-厦门卫视,http://113.89.246.222:4200/rtp/239.77.0.96:5146
-吉林卫视,http://113.89.246.222:4200/rtp/239.77.0.150:5146
-吉林卫视,http://113.89.246.222:4200/rtp/239.77.1.111:5146
-辽宁卫视,http://113.89.246.222:4200/rtp/239.77.1.103:5146
-辽宁卫视,http://113.89.246.222:4200/rtp/239.77.0.123:5146
-内蒙古卫视,http://113.89.246.222:4200/rtp/239.77.0.70:5146
-内蒙古卫视,http://113.89.246.222:4200/rtp/239.77.1.55:5146
-湖南卫视,http://113.89.246.222:4200/rtp/239.77.0.88:5146
-湖南卫视,http://113.89.246.222:4200/rtp/239.77.1.5:5146
-广东卫视,http://113.89.246.222:4200/rtp/239.77.0.84:5146
-广东卫视,http://113.89.246.222:4200/rtp/239.77.0.166:5146
-广东卫视,http://113.89.246.222:4200/rtp/239.77.1.19:5146
-广东卫视,http://113.89.246.222:4200/rtp/239.77.1.152:5146
-大湾区卫视,http://113.89.246.222:4200/rtp/239.77.0.215:5146
-大湾区卫视,http://113.89.246.222:4200/rtp/239.77.1.12:5146
-河南卫视,http://113.89.246.222:4200/rtp/239.77.0.17:5146
-河南卫视,http://113.89.246.222:4200/rtp/239.77.1.229:5146
-河北卫视,http://113.89.246.222:4200/rtp/239.77.0.148:5146
-河北卫视,http://113.89.246.222:4200/rtp/239.77.1.214:5146
-宁夏卫视,http://113.89.246.222:4200/rtp/239.77.0.49:5146
-宁夏卫视,http://113.89.246.222:4200/rtp/239.77.0.73:5146
-宁夏卫视,http://113.89.246.222:4200/rtp/239.77.1.28:5146
-宁夏卫视,http://113.89.246.222:4200/rtp/239.77.1.246:5146
-甘肃卫视,http://113.89.246.222:4200/rtp/239.77.0.189:5146
-甘肃卫视,http://113.89.246.222:4200/rtp/239.77.1.57:5146
-青海卫视,http://113.89.246.222:4200/rtp/239.77.1.70:5146
-青海卫视,http://113.89.246.222:4200/rtp/239.253.43.125:5146
-新疆卫视,http://113.89.246.222:4200/rtp/239.77.0.47:5146
-新疆卫视,http://113.89.246.222:4200/rtp/239.77.0.75:5146
-新疆卫视,http://113.89.246.222:4200/rtp/239.77.1.25:5146
-新疆卫视,http://113.89.246.222:4200/rtp/239.253.43.202:5146
-西藏卫视,http://113.89.246.222:4200/rtp/239.77.0.46:5146
-西藏卫视,http://113.89.246.222:4200/rtp/239.77.0.74:5146
-西藏卫视,http://113.89.246.222:4200/rtp/239.77.1.26:5146
-兵团卫视,http://113.89.246.222:4200/rtp/239.77.0.48:5146
-兵团卫视,http://113.89.246.222:4200/rtp/239.77.0.77:5146
-兵团卫视,http://113.89.246.222:4200/rtp/239.77.1.29:5146
-三沙卫视,http://113.89.246.222:4200/rtp/239.77.1.117:5146
-三沙卫视,http://113.89.246.222:4200/rtp/239.253.43.113:5146
-延边卫视,http://113.89.246.222:4200/rtp/239.77.0.10:5146
-延边卫视,http://113.89.246.222:4200/rtp/239.77.1.99:5146
-金鹰卡通,http://113.89.246.222:4200/rtp/239.77.0.164:5146
-金鹰卡通,http://113.89.246.222:4200/rtp/239.77.1.52:5146
-嘉佳卡通,http://113.89.246.222:4200/rtp/239.77.1.15:5146
-嘉佳卡通,http://113.89.246.222:4200/rtp/239.77.0.179:5146
-卡酷少儿,http://113.89.246.222:4200/rtp/239.77.0.79:5146
-卡酷少儿,http://113.89.246.222:4200/rtp/239.77.1.50:5146
-山东教育卫视,http://113.89.246.222:4200/rtp/239.77.1.35:5146
-重庆汽摩,http://113.89.246.222:4200/rtp/239.77.0.209:5146
-重庆汽摩,http://113.89.246.222:4200/rtp/239.77.1.205:5146
-优漫卡通,http://113.89.246.222:4200/rtp/239.77.0.222:5146
-优漫卡通,http://113.89.246.222:4200/rtp/239.77.1.79:5146
-财富天下,http://113.89.246.222:4200/rtp/239.77.0.113:5146
-睛彩竞技,http://113.89.246.222:4200/rtp/239.77.1.20:5146
-睛彩广场舞,http://113.89.246.222:4200/rtp/239.77.1.23:5146
-睛彩篮球,http://113.89.246.222:4200/rtp/239.77.1.21:5146
-睛彩青少,http://113.89.246.222:4200/rtp/239.77.1.22:5146
-兵团卫视,http://113.89.246.222:4200/rtp/239.77.1.107:5146
-深圳卫视,http://113.89.246.222:4200/rtp/239.77.1.189:5146
-广东珠江,http://113.89.246.222:4200/rtp/239.77.0.1:5146
-广东珠江,http://113.89.246.222:4200/rtp/239.77.1.94:5146
-广东珠江,http://113.89.246.222:4200/rtp/239.77.0.114:5146
-广东新闻,http://113.89.246.222:4200/rtp/239.77.0.173:5146
-广东影视,http://113.89.246.222:4200/rtp/239.77.0.217:5146
-广东民生,http://113.89.246.222:4200/rtp/239.77.0.225:5146
-广东少儿,http://113.89.246.222:4200/rtp/239.77.0.250:5146
-广东现代教育,http://113.89.246.222:4200/rtp/239.77.0.213:5146
-广东经济科教,http://113.89.246.222:4200/rtp/239.77.0.85:5146
-广东经济科教,http://113.89.246.222:4200/rtp/239.77.0.167:5146
-岭南戏曲,http://113.89.246.222:4200/rtp/239.77.0.122:5146
-广东体育,http://113.89.246.222:4200/rtp/239.77.0.112:5146
-广东体育,http://113.89.246.222:4200/rtp/239.77.0.168:5146
-广东体育,http://113.89.246.222:4200/rtp/239.77.1.97:5146
-广东综艺4K,http://113.89.246.222:4200/rtp/239.77.0.244:5146
-广东综艺4K,http://113.89.246.222:4200/rtp/239.77.0.245:5146
-广东综艺4K,http://113.89.246.222:4200/rtp/239.77.1.237:5146
-南国都市4K,http://113.89.246.222:4200/rtp/239.253.43.99:5146
-广州综合,http://113.89.246.222:4200/rtp/239.253.43.71:5146
-广州新闻,http://113.89.246.222:4200/rtp/239.253.43.72:5146
-广州法治,http://113.89.246.222:4200/rtp/239.253.43.74:5146
-深圳少儿,http://113.89.246.222:4200/rtp/239.77.1.244:5146
-深圳电视剧,http://113.89.246.222:4200/rtp/239.77.1.125:5146
-深圳电视剧,http://113.89.246.222:4200/rtp/239.77.1.177:5146
-深圳财经,http://113.89.246.222:4200/rtp/239.77.1.242:5146
-深圳龙岗,http://113.89.246.222:4200/rtp/239.77.1.223:5146
-深圳宝安,http://113.89.246.222:4200/rtp/239.77.1.67:5146
-深圳体育健康,http://113.89.246.222:4200/rtp/239.77.1.128:5146
-深圳体育健康,http://113.89.246.222:4200/rtp/239.77.1.140:5146
-深圳宜和购物,http://113.89.246.222:4200/rtp/239.77.1.87:5146
-东莞综合,http://113.89.246.222:4200/rtp/239.253.43.104:5146
-东莞生活资讯,http://113.89.246.222:4200/rtp/239.253.43.105:5146
-佛山综合,http://113.89.246.222:4200/rtp/239.253.43.57:5146
-佛山南海,http://113.89.246.222:4200/rtp/239.253.43.54:5146
-佛山城市生活,http://113.89.246.222:4200/rtp/239.253.43.53:5146
-佛山顺德,http://113.89.246.222:4200/rtp/239.253.43.55:5146
-江门综合,http://113.89.246.222:4200/rtp/239.77.0.201:5146
-南方购物,http://113.89.246.222:4200/rtp/239.77.0.19:5146
-南方购物,http://113.89.246.222:4200/rtp/239.77.0.22:5146
-汕头综合,http://113.89.246.222:4200/rtp/239.77.1.130:5146
-汕头综合,http://113.89.246.222:4200/rtp/239.253.43.45:5146
-汕头经济生活,http://113.89.246.222:4200/rtp/239.77.1.131:5146
-汕头经济生活,http://113.89.246.222:4200/rtp/239.253.43.46:5146
-汕尾新闻综合,http://113.89.246.222:4200/rtp/239.77.0.25:5146
-汕尾文化生活,http://113.89.246.222:4200/rtp/239.77.0.187:5146
-揭阳综合,http://113.89.246.222:4200/rtp/239.77.0.229:5146
-揭阳生活,http://113.89.246.222:4200/rtp/239.77.0.251:5146
-潮州综合,http://113.89.246.222:4200/rtp/239.253.43.70:5146
-潮州民生,http://113.89.246.222:4200/rtp/239.253.43.75:5146
-河源综合,http://113.89.246.222:4200/rtp/239.253.43.213:5146
-河源生活,http://113.89.246.222:4200/rtp/239.253.43.214:5146
-惠州1,http://113.89.246.222:4200/rtp/239.77.1.232:5146
-惠州2,http://113.89.246.222:4200/rtp/239.77.1.233:5146
-梅州综合,http://113.89.246.222:4200/rtp/239.253.43.123:5146
-梅州客家生活,http://113.89.246.222:4200/rtp/239.253.43.124:5146
-中山综合,http://113.89.246.222:4200/rtp/239.253.43.62:5146
-中山综合,http://113.89.246.222:4200/rtp/239.77.0.185:5146
-中山香山文化,http://113.89.246.222:4200/rtp/239.253.43.63:5146
-云浮综合,http://113.89.246.222:4200/rtp/239.77.0.253:5146
-云浮文旅,http://113.89.246.222:4200/rtp/239.77.0.254:5146
-清远综合,http://113.89.246.222:4200/rtp/239.253.43.33:5146
-湛江公共,http://113.89.246.222:4200/rtp/239.77.0.140:5146
-肇庆生活服务,http://113.89.246.222:4200/rtp/239.253.43.2:5146
-肇庆综合,http://113.89.246.222:4200/rtp/239.253.43.1:5146
-珠海1,http://113.89.246.222:4200/rtp/239.77.0.155:5146
-茂名综合,http://113.89.246.222:4200/rtp/239.77.0.206:5146
-茂名文化生活,http://113.89.246.222:4200/rtp/239.77.0.207:5146
-韶关综合,http://113.89.246.222:4200/rtp/239.77.0.117:5146
-广东九画面,http://113.89.246.222:4200/rtp/239.77.1.234:5146
-IPTV少儿动画,http://113.89.246.222:4200/rtp/239.77.1.91:5146
-IPTV热播剧场,http://113.89.246.222:4200/rtp/239.77.1.90:5146
-IPTV经典电影,http://113.89.246.222:4200/rtp/239.77.1.89:5146
-IPTV魅力时尚,http://113.89.246.222:4200/rtp/239.77.1.88:5146
-华数少儿动画,http://113.89.246.222:4200/rtp/239.77.0.109:5146
-华数热播剧场,http://113.89.246.222:4200/rtp/239.77.0.106:5146
-华数爱大剧1,http://113.89.246.222:4200/rtp/239.77.0.105:5146
-华数爱大剧2,http://113.89.246.222:4200/rtp/239.77.0.110:5146
-华数爱电影,http://113.89.246.222:4200/rtp/239.77.0.103:5146
-华数爱电影,http://113.89.246.222:4200/rtp/239.77.1.138:5146
-华数电视剧,http://113.89.246.222:4200/rtp/239.77.1.82:5146
-华数谍战剧场,http://113.89.246.222:4200/rtp/239.77.1.83:5146
-央视网CCTV3,http://113.89.246.222:4200/rtp/239.77.0.107:5146
-央视网CCTV3,http://113.89.246.222:4200/rtp/239.77.1.78:5146
-央视网CCTV3,http://113.89.246.222:4200/rtp/239.77.0.111:5146
-央视网CCTV5,http://113.89.246.222:4200/rtp/239.77.0.176:5146
-央视网CCTV5,http://113.89.246.222:4200/rtp/239.77.1.77:5146
-央视网CCTV11,http://113.89.246.222:4200/rtp/239.77.0.100:5146
-央视网CCTV12,http://113.89.246.222:4200/rtp/239.77.0.102:5146
-爱体育,http://113.89.246.222:4200/rtp/239.77.1.116:5146
-爱体育,http://113.89.246.222:4200/rtp/239.77.0.108:5146
-求索记录,http://113.89.246.222:4200/rtp/239.77.0.21:5146
-财富天下,http://113.89.246.222:4200/rtp/239.77.0.113:5146
-IPTV谍战剧场,http://113.89.246.222:4200/rtp/239.77.0.99:5146
-IPTV相声小品,http://113.89.246.222:4200/rtp/239.77.1.84:5146
-IPTV野外,http://113.89.246.222:4200/rtp/239.77.1.85:5146
-IPTV野外,http://113.89.246.222:4200/rtp/239.77.0.101:5146
-IPTV法治,http://113.89.246.222:4200/rtp/239.77.1.86:5146
-经典电影,http://113.89.246.222:4200/rtp/239.77.0.104:5146
-CCTV,http://113.89.246.222:4200/rtp/239.77.0.31:5146
-IPTV宣传,http://113.89.246.222:4200/rtp/239.77.1.183:5146
-IPTV宣传,http://113.89.246.222:4200/rtp/239.77.1.184:5146
-IPTV推荐1,http://113.89.246.222:4200/rtp/239.77.0.81:5146
-IPTV推荐2,http://113.89.246.222:4200/rtp/239.77.0.174:5146
-IPTV推荐3,http://113.89.246.222:4200/rtp/239.77.0.186:5146
-IPTV推荐4,http://113.89.246.222:4200/rtp/239.77.0.190:5146
-IPTV推荐5,http://113.89.246.222:4200/rtp/239.77.0.191:5146
-IPTV推荐6,http://113.89.246.222:4200/rtp/239.77.0.193:5146
-IPTV推荐7,http://113.89.246.222:4200/rtp/239.77.0.240:5146
-IPTV推荐8,http://113.89.246.222:4200/rtp/239.77.0.241:5146
-山东教育,http://113.89.246.222:4200/rtp/239.77.0.83:5146
-广东IPTV广告,http://113.89.246.222:4200/rtp/239.253.43.115:5146
-广东IPTV广告,http://113.89.246.222:4200/rtp/239.253.43.116:5146
-广东IPTV广告,http://113.89.246.222:4200/rtp/239.253.43.117:5146
-广东IPTV广告,http://113.89.246.222:4200/rtp/239.253.43.118:5146
-广东IPTV广告,http://113.89.246.222:4200/rtp/239.253.43.119:5146
-广东移动,http://113.89.246.222:4200/rtp/239.77.0.20:5146
-海南卫视,http://113.89.246.222:4200/rtp/239.253.43.35:5146
-海南卫视,http://113.89.246.222:4200/rtp/239.253.43.101:5146
-深圳移动,http://113.89.246.222:4200/rtp/239.77.1.175:5146
-深圳都市频道,http://113.89.246.222:4200/rtp/239.77.1.124:5146
-深圳都市频道,http://113.89.246.222:4200/rtp/239.77.1.176:5146
-湛江新闻,http://113.89.246.222:4200/rtp/239.77.0.141:5146
-阳江-1,http://113.89.246.222:4200/rtp/239.253.43.82:5146
-阳江-2,http://113.89.246.222:4200/rtp/239.253.43.83:5146
+国外18+频道motv系列,#genre#
+ADULTO 01,http://proxy.nr3.xyz:80/max289/991374465/51986
+ADULTO 02,http://proxy.nr3.xyz:80/max289/991374465/51987
+ADULTO 03,http://proxy.nr3.xyz:80/max289/991374465/51988
+ADULTO 04,http://proxy.nr3.xyz:80/max289/991374465/51989
+ADULTO 05,http://proxy.nr3.xyz:80/max289/991374465/51990
+ADULTO 06,http://proxy.nr3.xyz:80/max289/991374465/51991
+ADULTO 07,http://proxy.nr3.xyz:80/max289/991374465/51992
+ADULTO 08,http://proxy.nr3.xyz:80/max289/991374465/51993
+ADULTO 09,http://proxy.nr3.xyz:80/max289/991374465/51994
+ADULTO 10,http://proxy.nr3.xyz:80/max289/991374465/51995
+ADULTO 11,http://proxy.nr3.xyz:80/max289/991374465/51996
+ADULTO 12,http://proxy.nr3.xyz:80/max289/991374465/51997
+ADULTO 13,http://proxy.nr3.xyz:80/max289/991374465/51998
+ADULTO 14,http://proxy.nr3.xyz:80/max289/991374465/51999
+ADULTO 15,http://proxy.nr3.xyz:80/max289/991374465/52000
+ADULTO 16,http://proxy.nr3.xyz:80/max289/991374465/52001
+ADULTO 17,http://proxy.nr3.xyz:80/max289/991374465/52002
+ADULTO 18,http://proxy.nr3.xyz:80/max289/991374465/52003
+ADULTO 19,http://proxy.nr3.xyz:80/max289/991374465/52004
+ADULTO 20,http://proxy.nr3.xyz:80/max289/991374465/52005
+ADULTO GAY 01,http://proxy.nr3.xyz:80/max289/991374465/52108
+ADULTO GAY 02,http://proxy.nr3.xyz:80/max289/991374465/52109
+ADULTO GAY 03,http://proxy.nr3.xyz:80/max289/991374465/52110
+ADULTO GAY 04,http://proxy.nr3.xyz:80/max289/991374465/52111
+ADULTO GAY 05,http://proxy.nr3.xyz:80/max289/991374465/52112
+ADULTO GAY 06,http://proxy.nr3.xyz:80/max289/991374465/52113
+ADULTO GAY 07,http://proxy.nr3.xyz:80/max289/991374465/52114
+ADULTO GAY 08,http://proxy.nr3.xyz:80/max289/991374465/52115
+ADULTO GAY 09,http://proxy.nr3.xyz:80/max289/991374465/52116
+ADULTO GAY 10,http://proxy.nr3.xyz:80/max289/991374465/52117
+ADULTO GAY 11,http://proxy.nr3.xyz:80/max289/991374465/52118
+ADULTO GAY 12,http://proxy.nr3.xyz:80/max289/991374465/52119
+ADULTO GAY 13,http://proxy.nr3.xyz:80/max289/991374465/52120
+ADULTO GAY 14,http://proxy.nr3.xyz:80/max289/991374465/52121
+ADULTO GAY 15,http://proxy.nr3.xyz:80/max289/991374465/52122
+ADULTO GAY 16,http://proxy.nr3.xyz:80/max289/991374465/52123
+ADULTO GAY 17,http://proxy.nr3.xyz:80/max289/991374465/52124
+ADULTO GAY 18,http://proxy.nr3.xyz:80/max289/991374465/52125
+ADULTO GAY 19,http://proxy.nr3.xyz:80/max289/991374465/52126
+ADULTO TRANS 01,http://proxy.nr3.xyz:80/max289/991374465/52147
+ADULTO TRANS 02,http://proxy.nr3.xyz:80/max289/991374465/52148
+ADULTO TRANS 03,http://proxy.nr3.xyz:80/max289/991374465/52149
+ADULTO TRANS 04,http://proxy.nr3.xyz:80/max289/991374465/52150
+ADULTO TRANS 05,http://proxy.nr3.xyz:80/max289/991374465/52151
+ADULTO TRANS 06,http://proxy.nr3.xyz:80/max289/991374465/52152
+ADULTO TRANS 07,http://proxy.nr3.xyz:80/max289/991374465/52153
+ADULTO TRANS 08,http://proxy.nr3.xyz:80/max289/991374465/52154
+ADULTO TRANS 09,http://proxy.nr3.xyz:80/max289/991374465/52155
+ADULTO TRANS 10,http://proxy.nr3.xyz:80/max289/991374465/52156
+ADULTO TRANS 11,http://proxy.nr3.xyz:80/max289/991374465/52157
+ADULTO TRANS 12,http://proxy.nr3.xyz:80/max289/991374465/52158
+ADULTO TRANS 13,http://proxy.nr3.xyz:80/max289/991374465/52159
+ADULTO TRANS 14,http://proxy.nr3.xyz:80/max289/991374465/52160
+ADULTO TRANS 15,http://proxy.nr3.xyz:80/max289/991374465/52161
+ADULTO TRANS 16,http://proxy.nr3.xyz:80/max289/991374465/52162
+ADULTO TRANS 17,http://proxy.nr3.xyz:80/max289/991374465/52163
+ADULTO TRANS 18,http://proxy.nr3.xyz:80/max289/991374465/52164
+ADULTO TRANS 19,http://proxy.nr3.xyz:80/max289/991374465/52165
+ADULTO TRANS 20,http://proxy.nr3.xyz:80/max289/991374465/52166
